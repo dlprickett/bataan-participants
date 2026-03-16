@@ -1,0 +1,777 @@
+mansell_camp_raw,standardized_code,display_name,location,system,type,view_on_map_label,map_query,map_url,website_text,participant_count
+Fuk-01 Main,Fuk-01,Main Camp,"Fukuoka District, Japan",Fukuoka POW Camp #1,POW labor camp,View on Map,"Main Camp, Fukuoka District, Japan",https://www.google.com/maps/search/?api=1&query=Main%20Camp%2C%20Fukuoka%20District%2C%20Japan,"Camp: Main Camp
+Location: Fukuoka District, Japan
+System: Fukuoka POW Camp #1
+Type: POW labor camp",4
+Fuk-01-Main,Fuk-01,Main Camp,"Fukuoka District, Japan",Fukuoka POW Camp #1,POW labor camp,View on Map,"Main Camp, Fukuoka District, Japan",https://www.google.com/maps/search/?api=1&query=Main%20Camp%2C%20Fukuoka%20District%2C%20Japan,"Camp: Main Camp
+Location: Fukuoka District, Japan
+System: Fukuoka POW Camp #1
+Type: POW labor camp",196
+Fuk-01-Main??,Fuk-01,Main Camp,"Fukuoka District, Japan",Fukuoka POW Camp #1,POW labor camp,View on Map,"Main Camp, Fukuoka District, Japan",https://www.google.com/maps/search/?api=1&query=Main%20Camp%2C%20Fukuoka%20District%2C%20Japan,"Camp: Main Camp
+Location: Fukuoka District, Japan
+System: Fukuoka POW Camp #1
+Type: POW labor camp",1
+Fuk-01B-Main,Fuk-01B,Main Camp,"Fukuoka District, Japan",Fukuoka POW Camp #1 Branch B,POW labor camp,View on Map,"Main Camp, Fukuoka District, Japan",https://www.google.com/maps/search/?api=1&query=Main%20Camp%2C%20Fukuoka%20District%2C%20Japan,"Camp: Main Camp
+Location: Fukuoka District, Japan
+System: Fukuoka POW Camp #1 Branch B
+Type: POW labor camp",14
+Fuk-02-Nagasaki (Kawanami),Fuk-02,Nagasaki Camp,"Nagasaki, Nagasaki Prefecture, Japan",Fukuoka POW Camp #2,Shipyard / industrial labor camp,View on Map,"Nagasaki Camp, Nagasaki, Nagasaki Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Nagasaki%20Camp%2C%20Nagasaki%2C%20Nagasaki%20Prefecture%2C%20Japan,"Camp: Nagasaki Camp
+Location: Nagasaki, Nagasaki Prefecture, Japan
+System: Fukuoka POW Camp #2
+Type: Shipyard / industrial labor camp",8
+Fuk-02B-Nagasaki,Fuk-02B,Nagasaki Camp,"Nagasaki, Nagasaki Prefecture, Japan",Fukuoka POW Camp #2 Branch B,POW labor camp,View on Map,"Nagasaki Camp, Nagasaki, Nagasaki Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Nagasaki%20Camp%2C%20Nagasaki%2C%20Nagasaki%20Prefecture%2C%20Japan,"Camp: Nagasaki Camp
+Location: Nagasaki, Nagasaki Prefecture, Japan
+System: Fukuoka POW Camp #2 Branch B
+Type: POW labor camp",2
+Fuk-02B-Nagasaki (Kawanami),Fuk-02B,Nagasaki Camp,"Nagasaki, Nagasaki Prefecture, Japan",Fukuoka POW Camp #2 Branch B,Shipyard / industrial labor camp,View on Map,"Nagasaki Camp, Nagasaki, Nagasaki Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Nagasaki%20Camp%2C%20Nagasaki%2C%20Nagasaki%20Prefecture%2C%20Japan,"Camp: Nagasaki Camp
+Location: Nagasaki, Nagasaki Prefecture, Japan
+System: Fukuoka POW Camp #2 Branch B
+Type: Shipyard / industrial labor camp",2
+Fuk-03-Yahata,Fuk-03,Yawata Camp,"Yawata, Kitakyushu, Fukuoka Prefecture, Japan",Fukuoka POW Camp #3,POW labor camp,View on Map,"Yawata Camp, Yawata, Kitakyushu, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Yawata%20Camp%2C%20Yawata%2C%20Kitakyushu%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Yawata Camp
+Location: Yawata, Kitakyushu, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #3
+Type: POW labor camp",2
+Fuk-03-Yawata,Fuk-03,Yawata Camp,"Yawata, Kitakyushu, Fukuoka Prefecture, Japan",Fukuoka POW Camp #3,POW labor camp,View on Map,"Yawata Camp, Yawata, Kitakyushu, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Yawata%20Camp%2C%20Yawata%2C%20Kitakyushu%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Yawata Camp
+Location: Yawata, Kitakyushu, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #3
+Type: POW labor camp",578
+Fuk-03B-Yawata,Fuk-03B,Yawata Camp,"Yawata, Kitakyushu, Fukuoka Prefecture, Japan",Fukuoka POW Camp #3 Branch B,POW labor camp,View on Map,"Yawata Camp, Yawata, Kitakyushu, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Yawata%20Camp%2C%20Yawata%2C%20Kitakyushu%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Yawata Camp
+Location: Yawata, Kitakyushu, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #3 Branch B
+Type: POW labor camp",96
+Fuk-04-Kokura Military Hosp (KMH),Fuk-04,Kokura Military Hosp (KMH,"Fukuoka District, Japan",Fukuoka POW Camp #4,Hospital camp,View on Map,"Kokura Military Hosp (KMH, Fukuoka District, Japan",https://www.google.com/maps/search/?api=1&query=Kokura%20Military%20Hosp%20%28KMH%2C%20Fukuoka%20District%2C%20Japan,"Camp: Kokura Military Hosp (KMH
+Location: Fukuoka District, Japan
+System: Fukuoka POW Camp #4
+Type: Hospital camp",58
+Fuk-04-Kokura Miltary Hosp (KMH),Fuk-04,Kokura Military Hosp (KMH,"Fukuoka District, Japan",Fukuoka POW Camp #4,Hospital camp,View on Map,"Kokura Military Hosp (KMH, Fukuoka District, Japan",https://www.google.com/maps/search/?api=1&query=Kokura%20Military%20Hosp%20%28KMH%2C%20Fukuoka%20District%2C%20Japan,"Camp: Kokura Military Hosp (KMH
+Location: Fukuoka District, Japan
+System: Fukuoka POW Camp #4
+Type: Hospital camp",2
+Fuk-04-Moji,Fuk-04,Moji Camp,"Moji, Kitakyushu, Fukuoka Prefecture, Japan",Fukuoka POW Camp #4,Industrial / port labor camp,View on Map,"Moji Camp, Moji, Kitakyushu, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Moji%20Camp%2C%20Moji%2C%20Kitakyushu%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Moji Camp
+Location: Moji, Kitakyushu, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #4
+Type: Industrial / port labor camp",1
+Fuk-04-Moji (YMCA,Fuk-04,Moji Camp,"Moji, Kitakyushu, Fukuoka Prefecture, Japan",Fukuoka POW Camp #4,Transit / holding camp,View on Map,"Moji Camp, Moji, Kitakyushu, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Moji%20Camp%2C%20Moji%2C%20Kitakyushu%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Moji Camp
+Location: Moji, Kitakyushu, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #4
+Type: Transit / holding camp",3
+Fuk-04-Moji (YMCA),Fuk-04,Moji Camp,"Moji, Kitakyushu, Fukuoka Prefecture, Japan",Fukuoka POW Camp #4,Transit / holding camp,View on Map,"Moji Camp, Moji, Kitakyushu, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Moji%20Camp%2C%20Moji%2C%20Kitakyushu%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Moji Camp
+Location: Moji, Kitakyushu, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #4
+Type: Transit / holding camp",47
+Fuk-04-Moji Hospital,Fuk-04,Moji Camp,"Moji, Kitakyushu, Fukuoka Prefecture, Japan",Fukuoka POW Camp #4,Hospital camp,View on Map,"Moji Camp, Moji, Kitakyushu, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Moji%20Camp%2C%20Moji%2C%20Kitakyushu%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Moji Camp
+Location: Moji, Kitakyushu, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #4
+Type: Hospital camp",4
+Fuk-04B-Moji,Fuk-04B,Moji Camp,"Moji, Kitakyushu, Fukuoka Prefecture, Japan",Fukuoka POW Camp #4 Branch B,Industrial / port labor camp,View on Map,"Moji Camp, Moji, Kitakyushu, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Moji%20Camp%2C%20Moji%2C%20Kitakyushu%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Moji Camp
+Location: Moji, Kitakyushu, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #4 Branch B
+Type: Industrial / port labor camp",2
+Fuk-04B-Moji (YMCA),Fuk-04B,Moji Camp,"Moji, Kitakyushu, Fukuoka Prefecture, Japan",Fukuoka POW Camp #4 Branch B,Transit / holding camp,View on Map,"Moji Camp, Moji, Kitakyushu, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Moji%20Camp%2C%20Moji%2C%20Kitakyushu%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Moji Camp
+Location: Moji, Kitakyushu, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #4 Branch B
+Type: Transit / holding camp",66
+Fuk-04B-YMCA (Hosp),Fuk-04B,YMCA (Hosp,"Fukuoka District, Japan",Fukuoka POW Camp #4 Branch B,Hospital camp,View on Map,"YMCA (Hosp, Fukuoka District, Japan",https://www.google.com/maps/search/?api=1&query=YMCA%20%28Hosp%2C%20Fukuoka%20District%2C%20Japan,"Camp: YMCA (Hosp
+Location: Fukuoka District, Japan
+System: Fukuoka POW Camp #4 Branch B
+Type: Hospital camp",1
+Fuk-05B-Omine,Fuk-05B,Omine Camp,"Omine, Yamaguchi Prefecture, Japan",Fukuoka POW Camp #5 Branch B,Mining labor camp,View on Map,"Omine Camp, Omine, Yamaguchi Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Omine%20Camp%2C%20Omine%2C%20Yamaguchi%20Prefecture%2C%20Japan,"Camp: Omine Camp
+Location: Omine, Yamaguchi Prefecture, Japan
+System: Fukuoka POW Camp #5 Branch B
+Type: Mining labor camp",2
+Fuk-06B-Mizumaki (Orio),Fuk-06B,Mizumaki (Orio Camp,"Mizumaki / Orio, Fukuoka Prefecture, Japan",Fukuoka POW Camp #6 Branch B,POW labor camp,View on Map,"Mizumaki (Orio Camp, Mizumaki / Orio, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Mizumaki%20%28Orio%20Camp%2C%20Mizumaki%20/%20Orio%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Mizumaki (Orio Camp
+Location: Mizumaki / Orio, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #6 Branch B
+Type: POW labor camp",138
+Fuk-07-Futase,Fuk-07,Futase Camp,"Futase, Fukuoka Prefecture, Japan",Fukuoka POW Camp #7,Mining labor camp,View on Map,"Futase Camp, Futase, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Futase%20Camp%2C%20Futase%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Futase Camp
+Location: Futase, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #7
+Type: Mining labor camp",4
+Fuk-07B-Futase,Fuk-07B,Futase Camp,"Futase, Fukuoka Prefecture, Japan",Fukuoka POW Camp #7 Branch B,Mining labor camp,View on Map,"Futase Camp, Futase, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Futase%20Camp%2C%20Futase%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Futase Camp
+Location: Futase, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #7 Branch B
+Type: Mining labor camp",182
+Fuk-07B-Futase (Nag?),Fuk-07B,Futase (Nag Camp,"Futase, Fukuoka Prefecture, Japan",Fukuoka POW Camp #7 Branch B,Mining labor camp,View on Map,"Futase (Nag Camp, Futase, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Futase%20%28Nag%20Camp%2C%20Futase%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Futase (Nag Camp
+Location: Futase, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #7 Branch B
+Type: Mining labor camp",1
+Fuk-08-Inatsuki,Fuk-08,Inatsuki Camp,"Inatsuki, Fukuoka Prefecture, Japan",Fukuoka POW Camp #8,Mining labor camp,View on Map,"Inatsuki Camp, Inatsuki, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Inatsuki%20Camp%2C%20Inatsuki%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Inatsuki Camp
+Location: Inatsuki, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #8
+Type: Mining labor camp",8
+Fuk-08B-Inatsuki,Fuk-08B,Inatsuki Camp,"Inatsuki, Fukuoka Prefecture, Japan",Fukuoka POW Camp #8 Branch B,Mining labor camp,View on Map,"Inatsuki Camp, Inatsuki, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Inatsuki%20Camp%2C%20Inatsuki%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Inatsuki Camp
+Location: Inatsuki, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #8 Branch B
+Type: Mining labor camp",56
+Fuk-09-Miyata,Fuk-09,Miyata Camp,"Miyata (Miyawaka), Fukuoka Prefecture, Japan",Fukuoka POW Camp #9,Mining labor camp,View on Map,"Miyata Camp, Miyata (Miyawaka), Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Miyata%20Camp%2C%20Miyata%20%28Miyawaka%29%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Miyata Camp
+Location: Miyata (Miyawaka), Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #9
+Type: Mining labor camp",33
+Fuk-09B-Miyata,Fuk-09B,Miyata Camp,"Miyata (Miyawaka), Fukuoka Prefecture, Japan",Fukuoka POW Camp #9 Branch B,Mining labor camp,View on Map,"Miyata Camp, Miyata (Miyawaka), Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Miyata%20Camp%2C%20Miyata%20%28Miyawaka%29%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Miyata Camp
+Location: Miyata (Miyawaka), Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #9 Branch B
+Type: Mining labor camp",5
+Fuk-11?,Fuk-11,Fukuoka POW Camp 11,"Fukuoka District, Japan",Fukuoka POW Camp #11,POW labor camp,View on Map,"Fukuoka POW Camp 11, Fukuoka District, Japan",https://www.google.com/maps/search/?api=1&query=Fukuoka%20POW%20Camp%2011%2C%20Fukuoka%20District%2C%20Japan,"Camp: Fukuoka POW Camp 11
+Location: Fukuoka District, Japan
+System: Fukuoka POW Camp #11
+Type: POW labor camp",1
+Fuk-12-Innoshima,Fuk-12,Innoshima Camp,"Innoshima, Hiroshima Prefecture, Japan",Fukuoka POW Camp #12,POW labor camp,View on Map,"Innoshima Camp, Innoshima, Hiroshima Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Innoshima%20Camp%2C%20Innoshima%2C%20Hiroshima%20Prefecture%2C%20Japan,"Camp: Innoshima Camp
+Location: Innoshima, Hiroshima Prefecture, Japan
+System: Fukuoka POW Camp #12
+Type: POW labor camp",1
+Fuk-12B-Innoshima,Fuk-12B,Innoshima Camp,"Innoshima, Hiroshima Prefecture, Japan",Fukuoka POW Camp #12 Branch B,POW labor camp,View on Map,"Innoshima Camp, Innoshima, Hiroshima Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Innoshima%20Camp%2C%20Innoshima%2C%20Hiroshima%20Prefecture%2C%20Japan,"Camp: Innoshima Camp
+Location: Innoshima, Hiroshima Prefecture, Japan
+System: Fukuoka POW Camp #12 Branch B
+Type: POW labor camp",3
+Fuk-17-Omuta,Fuk-17,Omuta Camp,"Omuta, Fukuoka Prefecture, Japan",Fukuoka POW Camp #17,POW labor camp,View on Map,"Omuta Camp, Omuta, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Omuta%20Camp%2C%20Omuta%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Omuta Camp
+Location: Omuta, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #17
+Type: POW labor camp",784
+Fuk-17-Omuta ??,Fuk-17,Omuta Camp,"Omuta, Fukuoka Prefecture, Japan",Fukuoka POW Camp #17,POW labor camp,View on Map,"Omuta Camp, Omuta, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Omuta%20Camp%2C%20Omuta%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Omuta Camp
+Location: Omuta, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #17
+Type: POW labor camp",1
+Fuk-18-Sasebo (Yunoki),Fuk-18,Sasebo Camp,"Sasebo / Yunoki, Nagasaki Prefecture, Japan",Fukuoka POW Camp #18,Industrial / port labor camp,View on Map,"Sasebo Camp, Sasebo / Yunoki, Nagasaki Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Sasebo%20Camp%2C%20Sasebo%20/%20Yunoki%2C%20Nagasaki%20Prefecture%2C%20Japan,"Camp: Sasebo Camp
+Location: Sasebo / Yunoki, Nagasaki Prefecture, Japan
+System: Fukuoka POW Camp #18
+Type: Industrial / port labor camp",2
+Fuk-18B-Sasebo (Yunoki),Fuk-18B,Sasebo Camp,"Sasebo / Yunoki, Nagasaki Prefecture, Japan",Fukuoka POW Camp #18 Branch B,Industrial / port labor camp,View on Map,"Sasebo Camp, Sasebo / Yunoki, Nagasaki Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Sasebo%20Camp%2C%20Sasebo%20/%20Yunoki%2C%20Nagasaki%20Prefecture%2C%20Japan,"Camp: Sasebo Camp
+Location: Sasebo / Yunoki, Nagasaki Prefecture, Japan
+System: Fukuoka POW Camp #18 Branch B
+Type: Industrial / port labor camp",54
+Fuk-21-Nakama,Fuk-21,Nakama Camp,"Nakama, Fukuoka Prefecture, Japan",Fukuoka POW Camp #21,POW labor camp,View on Map,"Nakama Camp, Nakama, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Nakama%20Camp%2C%20Nakama%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Nakama Camp
+Location: Nakama, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #21
+Type: POW labor camp",1
+Fuk-21B-Nakama,Fuk-21B,Nakama Camp,"Nakama, Fukuoka Prefecture, Japan",Fukuoka POW Camp #21 Branch B,POW labor camp,View on Map,"Nakama Camp, Nakama, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Nakama%20Camp%2C%20Nakama%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Nakama Camp
+Location: Nakama, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #21 Branch B
+Type: POW labor camp",2
+Fuk-22-Honami,Fuk-22,Honami Camp,"Honami / Iizuka area, Fukuoka Prefecture, Japan",Fukuoka POW Camp #22,POW labor camp,View on Map,"Honami Camp, Honami / Iizuka area, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Honami%20Camp%2C%20Honami%20/%20Iizuka%20area%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Honami Camp
+Location: Honami / Iizuka area, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #22
+Type: POW labor camp",29
+Fuk-22B Honami,Fuk-22B,Honami Camp,"Honami / Iizuka area, Fukuoka Prefecture, Japan",Fukuoka POW Camp #22 Branch B,POW labor camp,View on Map,"Honami Camp, Honami / Iizuka area, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Honami%20Camp%2C%20Honami%20/%20Iizuka%20area%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Honami Camp
+Location: Honami / Iizuka area, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #22 Branch B
+Type: POW labor camp",1
+Fuk-23-Keisen,Fuk-23,Keisen Camp,"Keisen, Fukuoka Prefecture, Japan",Fukuoka POW Camp #23,Mining labor camp,View on Map,"Keisen Camp, Keisen, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Keisen%20Camp%2C%20Keisen%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Keisen Camp
+Location: Keisen, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #23
+Type: Mining labor camp",184
+Fuk-23-Keisen (Aso),Fuk-23,Keisen Camp,"Keisen, Fukuoka Prefecture, Japan",Fukuoka POW Camp #23,Mining labor camp,View on Map,"Keisen Camp, Keisen, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Keisen%20Camp%2C%20Keisen%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Keisen Camp
+Location: Keisen, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #23
+Type: Mining labor camp",1
+Fuk-23-Keisen (Hirayama),Fuk-23,Keisen Camp,"Keisen, Fukuoka Prefecture, Japan",Fukuoka POW Camp #23,Mining labor camp,View on Map,"Keisen Camp, Keisen, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Keisen%20Camp%2C%20Keisen%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Keisen Camp
+Location: Keisen, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #23
+Type: Mining labor camp",10
+Fuk-24-Emukae (Senryu),Fuk-24,Emukae (Senryu Camp,"Emukae, Nagasaki Prefecture, Japan",Fukuoka POW Camp #24,POW labor camp,View on Map,"Emukae (Senryu Camp, Emukae, Nagasaki Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Emukae%20%28Senryu%20Camp%2C%20Emukae%2C%20Nagasaki%20Prefecture%2C%20Japan,"Camp: Emukae (Senryu Camp
+Location: Emukae, Nagasaki Prefecture, Japan
+System: Fukuoka POW Camp #24
+Type: POW labor camp",4
+Fuk-24B-Emukae (Senryu),Fuk-24B,Emukae (Senryu Camp,"Emukae, Nagasaki Prefecture, Japan",Fukuoka POW Camp #24 Branch B,POW labor camp,View on Map,"Emukae (Senryu Camp, Emukae, Nagasaki Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Emukae%20%28Senryu%20Camp%2C%20Emukae%2C%20Nagasaki%20Prefecture%2C%20Japan,"Camp: Emukae (Senryu Camp
+Location: Emukae, Nagasaki Prefecture, Japan
+System: Fukuoka POW Camp #24 Branch B
+Type: POW labor camp",5
+Fuk-24B-Senryu,Fuk-24B,Senryu Camp,"Senryu / Emukae, Nagasaki Prefecture, Japan",Fukuoka POW Camp #24 Branch B,POW labor camp,View on Map,"Senryu Camp, Senryu / Emukae, Nagasaki Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Senryu%20Camp%2C%20Senryu%20/%20Emukae%2C%20Nagasaki%20Prefecture%2C%20Japan,"Camp: Senryu Camp
+Location: Senryu / Emukae, Nagasaki Prefecture, Japan
+System: Fukuoka POW Camp #24 Branch B
+Type: POW labor camp",25
+Fuk-24B-Senryu (Emukae),Fuk-24B,Senryu (Emukae Camp,"Emukae, Nagasaki Prefecture, Japan",Fukuoka POW Camp #24 Branch B,POW labor camp,View on Map,"Senryu (Emukae Camp, Emukae, Nagasaki Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Senryu%20%28Emukae%20Camp%2C%20Emukae%2C%20Nagasaki%20Prefecture%2C%20Japan,"Camp: Senryu (Emukae Camp
+Location: Emukae, Nagasaki Prefecture, Japan
+System: Fukuoka POW Camp #24 Branch B
+Type: POW labor camp",2
+Fuk-25,Fuk-25,Fukuoka POW Camp 25,"Fukuoka District, Japan",Fukuoka POW Camp #25,POW labor camp,View on Map,"Fukuoka POW Camp 25, Fukuoka District, Japan",https://www.google.com/maps/search/?api=1&query=Fukuoka%20POW%20Camp%2025%2C%20Fukuoka%20District%2C%20Japan,"Camp: Fukuoka POW Camp 25
+Location: Fukuoka District, Japan
+System: Fukuoka POW Camp #25
+Type: POW labor camp",1
+Fuk-25B-Shinkai,Fuk-25B,Shinkai Camp,"Shinkai, Japan",Fukuoka POW Camp #25 Branch B,POW labor camp,View on Map,"Shinkai Camp, Shinkai, Japan",https://www.google.com/maps/search/?api=1&query=Shinkai%20Camp%2C%20Shinkai%2C%20Japan,"Camp: Shinkai Camp
+Location: Shinkai, Japan
+System: Fukuoka POW Camp #25 Branch B
+Type: POW labor camp",1
+Fuk-27B-Tagawa,Fuk-27B,Tagawa Camp,"Tagawa, Fukuoka Prefecture, Japan",Fukuoka POW Camp #27 Branch B,Mining labor camp,View on Map,"Tagawa Camp, Tagawa, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Tagawa%20Camp%2C%20Tagawa%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Tagawa Camp
+Location: Tagawa, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #27 Branch B
+Type: Mining labor camp",71
+Fuk-27B-Tagawa (Mitsui),Fuk-27B,Tagawa Camp,"Tagawa, Fukuoka Prefecture, Japan",Fukuoka POW Camp #27 Branch B,Mining / industrial labor camp,View on Map,"Tagawa Camp, Tagawa, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Tagawa%20Camp%2C%20Tagawa%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Tagawa Camp
+Location: Tagawa, Fukuoka Prefecture, Japan
+System: Fukuoka POW Camp #27 Branch B
+Type: Mining / industrial labor camp",10
+Hak-01B-Ashibetsu,Hak-01B,Ashibetsu Camp,"Ashibetsu, Hokkaido, Japan",Hakodate POW Camp #1 Branch B,Mining labor camp,View on Map,"Ashibetsu Camp, Ashibetsu, Hokkaido, Japan",https://www.google.com/maps/search/?api=1&query=Ashibetsu%20Camp%2C%20Ashibetsu%2C%20Hokkaido%2C%20Japan,"Camp: Ashibetsu Camp
+Location: Ashibetsu, Hokkaido, Japan
+System: Hakodate POW Camp #1 Branch B
+Type: Mining labor camp",1
+Hak-01B-Main (Bibai),Hak-01B,Bibai Camp,"Bibai, Hokkaido, Japan",Hakodate POW Camp #1 Branch B,POW labor camp,View on Map,"Bibai Camp, Bibai, Hokkaido, Japan",https://www.google.com/maps/search/?api=1&query=Bibai%20Camp%2C%20Bibai%2C%20Hokkaido%2C%20Japan,"Camp: Bibai Camp
+Location: Bibai, Hokkaido, Japan
+System: Hakodate POW Camp #1 Branch B
+Type: POW labor camp",44
+Hak-02-Akahira,Hak-02,Akahira Camp,"Akahira, Hokkaido, Japan",Hakodate POW Camp #2,Mining labor camp,View on Map,"Akahira Camp, Akahira, Hokkaido, Japan",https://www.google.com/maps/search/?api=1&query=Akahira%20Camp%2C%20Akahira%2C%20Hokkaido%2C%20Japan,"Camp: Akahira Camp
+Location: Akahira, Hokkaido, Japan
+System: Hakodate POW Camp #2
+Type: Mining labor camp",98
+Hak-02B-Akahira,Hak-02B,Akahira Camp,"Akahira, Hokkaido, Japan",Hakodate POW Camp #2 Branch B,Mining labor camp,View on Map,"Akahira Camp, Akahira, Hokkaido, Japan",https://www.google.com/maps/search/?api=1&query=Akahira%20Camp%2C%20Akahira%2C%20Hokkaido%2C%20Japan,"Camp: Akahira Camp
+Location: Akahira, Hokkaido, Japan
+System: Hakodate POW Camp #2 Branch B
+Type: Mining labor camp",17
+Hak-03-Utashinai,Hak-03,Utashinai Camp,"Utashinai, Hokkaido, Japan",Hakodate POW Camp #3,Mining labor camp,View on Map,"Utashinai Camp, Utashinai, Hokkaido, Japan",https://www.google.com/maps/search/?api=1&query=Utashinai%20Camp%2C%20Utashinai%2C%20Hokkaido%2C%20Japan,"Camp: Utashinai Camp
+Location: Utashinai, Hokkaido, Japan
+System: Hakodate POW Camp #3
+Type: Mining labor camp",234
+Hak-03-Utashunai,Hak-03,Utashinai Camp,"Utashinai, Hokkaido, Japan",Hakodate POW Camp #3,Mining labor camp,View on Map,"Utashinai Camp, Utashinai, Hokkaido, Japan",https://www.google.com/maps/search/?api=1&query=Utashinai%20Camp%2C%20Utashinai%2C%20Hokkaido%2C%20Japan,"Camp: Utashinai Camp
+Location: Utashinai, Hokkaido, Japan
+System: Hakodate POW Camp #3
+Type: Mining labor camp",37
+Hak-04-Ashibetsu,Hak-04,Ashibetsu Camp,"Ashibetsu, Hokkaido, Japan",Hakodate POW Camp #4,Mining labor camp,View on Map,"Ashibetsu Camp, Ashibetsu, Hokkaido, Japan",https://www.google.com/maps/search/?api=1&query=Ashibetsu%20Camp%2C%20Ashibetsu%2C%20Hokkaido%2C%20Japan,"Camp: Ashibetsu Camp
+Location: Ashibetsu, Hokkaido, Japan
+System: Hakodate POW Camp #4
+Type: Mining labor camp",28
+Hak-04B-Ashibetsu,Hak-04B,Ashibetsu Camp,"Ashibetsu, Hokkaido, Japan",Hakodate POW Camp #4 Branch B,Mining labor camp,View on Map,"Ashibetsu Camp, Ashibetsu, Hokkaido, Japan",https://www.google.com/maps/search/?api=1&query=Ashibetsu%20Camp%2C%20Ashibetsu%2C%20Hokkaido%2C%20Japan,"Camp: Ashibetsu Camp
+Location: Ashibetsu, Hokkaido, Japan
+System: Hakodate POW Camp #4 Branch B
+Type: Mining labor camp",5
+Hak-1B-Ashibetsu,Hak-1B,Ashibetsu Camp,"Ashibetsu, Hokkaido, Japan",Hakodate POW Camp #1 Branch B,Mining labor camp,View on Map,"Ashibetsu Camp, Ashibetsu, Hokkaido, Japan",https://www.google.com/maps/search/?api=1&query=Ashibetsu%20Camp%2C%20Ashibetsu%2C%20Hokkaido%2C%20Japan,"Camp: Ashibetsu Camp
+Location: Ashibetsu, Hokkaido, Japan
+System: Hakodate POW Camp #1 Branch B
+Type: Mining labor camp",1
+Hak-2B-Akahira,Hak-2B,Akahira Camp,"Akahira, Hokkaido, Japan",Hakodate POW Camp #2 Branch B,Mining labor camp,View on Map,"Akahira Camp, Akahira, Hokkaido, Japan",https://www.google.com/maps/search/?api=1&query=Akahira%20Camp%2C%20Akahira%2C%20Hokkaido%2C%20Japan,"Camp: Akahira Camp
+Location: Akahira, Hokkaido, Japan
+System: Hakodate POW Camp #2 Branch B
+Type: Mining labor camp",1
+Hak-3B-Utashinai,Hak-3B,Utashinai Camp,"Utashinai, Hokkaido, Japan",Hakodate POW Camp #3 Branch B,Mining labor camp,View on Map,"Utashinai Camp, Utashinai, Hokkaido, Japan",https://www.google.com/maps/search/?api=1&query=Utashinai%20Camp%2C%20Utashinai%2C%20Hokkaido%2C%20Japan,"Camp: Utashinai Camp
+Location: Utashinai, Hokkaido, Japan
+System: Hakodate POW Camp #3 Branch B
+Type: Mining labor camp",16
+Hak-Main-Bibai,Hak-Main,Bibai Camp,"Bibai, Hokkaido, Japan",Hakodate POW Camp,POW labor camp,View on Map,"Bibai Camp, Bibai, Hokkaido, Japan",https://www.google.com/maps/search/?api=1&query=Bibai%20Camp%2C%20Bibai%2C%20Hokkaido%2C%20Japan,"Camp: Bibai Camp
+Location: Bibai, Hokkaido, Japan
+System: Hakodate POW Camp
+Type: POW labor camp",2
+Nag-01B-Kamioka,Nag-01B,Kamioka Mining Camp,"Kamioka, Gifu Prefecture, Japan",Nagoya POW Camp #1 Branch B,Mining labor camp,View on Map,"Kamioka Mining Camp, Kamioka, Gifu Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kamioka%20Mining%20Camp%2C%20Kamioka%2C%20Gifu%20Prefecture%2C%20Japan,"Camp: Kamioka Mining Camp
+Location: Kamioka, Gifu Prefecture, Japan
+System: Nagoya POW Camp #1 Branch B
+Type: Mining labor camp",338
+Nag-01B-Kamioka??,Nag-01B,Kamioka Mining Camp,"Kamioka, Gifu Prefecture, Japan",Nagoya POW Camp #1 Branch B,Mining labor camp,View on Map,"Kamioka Mining Camp, Kamioka, Gifu Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kamioka%20Mining%20Camp%2C%20Kamioka%2C%20Gifu%20Prefecture%2C%20Japan,"Camp: Kamioka Mining Camp
+Location: Kamioka, Gifu Prefecture, Japan
+System: Nagoya POW Camp #1 Branch B
+Type: Mining labor camp",1
+Nag-02B Narumi,Nag-02B,Narumi Camp,"Narumi, Nagoya, Aichi Prefecture, Japan",Nagoya POW Camp #2 Branch B,POW labor camp,View on Map,"Narumi Camp, Narumi, Nagoya, Aichi Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Narumi%20Camp%2C%20Narumi%2C%20Nagoya%2C%20Aichi%20Prefecture%2C%20Japan,"Camp: Narumi Camp
+Location: Narumi, Nagoya, Aichi Prefecture, Japan
+System: Nagoya POW Camp #2 Branch B
+Type: POW labor camp",22
+Nag-02B-Narumi,Nag-02B,Narumi Camp,"Narumi, Nagoya, Aichi Prefecture, Japan",Nagoya POW Camp #2 Branch B,POW labor camp,View on Map,"Narumi Camp, Narumi, Nagoya, Aichi Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Narumi%20Camp%2C%20Narumi%2C%20Nagoya%2C%20Aichi%20Prefecture%2C%20Japan,"Camp: Narumi Camp
+Location: Narumi, Nagoya, Aichi Prefecture, Japan
+System: Nagoya POW Camp #2 Branch B
+Type: POW labor camp",172
+Nag-03B-Funatsu,Nag-03B,Funatsu Camp,"Funatsu, Toyama Prefecture, Japan",Nagoya POW Camp #3 Branch B,POW labor camp,View on Map,"Funatsu Camp, Funatsu, Toyama Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Funatsu%20Camp%2C%20Funatsu%2C%20Toyama%20Prefecture%2C%20Japan,"Camp: Funatsu Camp
+Location: Funatsu, Toyama Prefecture, Japan
+System: Nagoya POW Camp #3 Branch B
+Type: POW labor camp",125
+Nag-05-Yokkaichi,Nag-05,Yokkaichi Camp,"Yokkaichi, Mie Prefecture, Japan",Nagoya POW Camp #5,POW labor camp,View on Map,"Yokkaichi Camp, Yokkaichi, Mie Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Yokkaichi%20Camp%2C%20Yokkaichi%2C%20Mie%20Prefecture%2C%20Japan,"Camp: Yokkaichi Camp
+Location: Yokkaichi, Mie Prefecture, Japan
+System: Nagoya POW Camp #5
+Type: POW labor camp",1
+Nag-05B-Yokaichi,Nag-05B,Yokkaichi Camp,"Yokkaichi, Mie Prefecture, Japan",Nagoya POW Camp #5 Branch B,POW labor camp,View on Map,"Yokkaichi Camp, Yokkaichi, Mie Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Yokkaichi%20Camp%2C%20Yokkaichi%2C%20Mie%20Prefecture%2C%20Japan,"Camp: Yokkaichi Camp
+Location: Yokkaichi, Mie Prefecture, Japan
+System: Nagoya POW Camp #5 Branch B
+Type: POW labor camp",2
+Nag-05B-Yokkaichi,Nag-05B,Yokkaichi Camp,"Yokkaichi, Mie Prefecture, Japan",Nagoya POW Camp #5 Branch B,POW labor camp,View on Map,"Yokkaichi Camp, Yokkaichi, Mie Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Yokkaichi%20Camp%2C%20Yokkaichi%2C%20Mie%20Prefecture%2C%20Japan,"Camp: Yokkaichi Camp
+Location: Yokkaichi, Mie Prefecture, Japan
+System: Nagoya POW Camp #5 Branch B
+Type: POW labor camp",187
+Nag-06B-Nomachi (Takaoka),Nag-06B,Nomachi (Takaoka Camp,"Takaoka / Nomachi, Toyama Prefecture, Japan",Nagoya POW Camp #6 Branch B,POW labor camp,View on Map,"Nomachi (Takaoka Camp, Takaoka / Nomachi, Toyama Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Nomachi%20%28Takaoka%20Camp%2C%20Takaoka%20/%20Nomachi%2C%20Toyama%20Prefecture%2C%20Japan,"Camp: Nomachi (Takaoka Camp
+Location: Takaoka / Nomachi, Toyama Prefecture, Japan
+System: Nagoya POW Camp #6 Branch B
+Type: POW labor camp",147
+Nag-06B-Nomanchi,Nag-06B,Nomachi Camp,"Takaoka / Nomachi, Toyama Prefecture, Japan",Nagoya POW Camp #6 Branch B,POW labor camp,View on Map,"Nomachi Camp, Takaoka / Nomachi, Toyama Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Nomachi%20Camp%2C%20Takaoka%20/%20Nomachi%2C%20Toyama%20Prefecture%2C%20Japan,"Camp: Nomachi Camp
+Location: Takaoka / Nomachi, Toyama Prefecture, Japan
+System: Nagoya POW Camp #6 Branch B
+Type: POW labor camp",2
+Nag-07B-Toyama,Nag-07B,Toyama Camp,"Toyama Prefecture, Japan",Nagoya POW Camp #7 Branch B,POW labor camp,View on Map,"Toyama Camp, Toyama Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Toyama%20Camp%2C%20Toyama%20Prefecture%2C%20Japan,"Camp: Toyama Camp
+Location: Toyama Prefecture, Japan
+System: Nagoya POW Camp #7 Branch B
+Type: POW labor camp",195
+Nag-09B-Jinzu (Toyama Iwase),Nag-09B,Jinzu River Camp,"Toyama Prefecture, Japan",Nagoya POW Camp #9 Branch B,Industrial / port labor camp,View on Map,"Jinzu River Camp, Toyama Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Jinzu%20River%20Camp%2C%20Toyama%20Prefecture%2C%20Japan,"Camp: Jinzu River Camp
+Location: Toyama Prefecture, Japan
+System: Nagoya POW Camp #9 Branch B
+Type: Industrial / port labor camp",229
+Nag-10B-Fushiki (Nomachi),Nag-10B,Fushiki Camp,"Takaoka / Nomachi, Toyama Prefecture, Japan",Nagoya POW Camp #10 Branch B,POW labor camp,View on Map,"Fushiki Camp, Takaoka / Nomachi, Toyama Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Fushiki%20Camp%2C%20Takaoka%20/%20Nomachi%2C%20Toyama%20Prefecture%2C%20Japan,"Camp: Fushiki Camp
+Location: Takaoka / Nomachi, Toyama Prefecture, Japan
+System: Nagoya POW Camp #10 Branch B
+Type: POW labor camp",8
+Nag-10B-Fushiki (Takaoka),Nag-10B,Fushiki Camp,"Takaoka, Toyama Prefecture, Japan",Nagoya POW Camp #10 Branch B,POW labor camp,View on Map,"Fushiki Camp, Takaoka, Toyama Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Fushiki%20Camp%2C%20Takaoka%2C%20Toyama%20Prefecture%2C%20Japan,"Camp: Fushiki Camp
+Location: Takaoka, Toyama Prefecture, Japan
+System: Nagoya POW Camp #10 Branch B
+Type: POW labor camp",153
+Nag-11B-Iwase (Nihon Soda),Nag-11B,Iwase Camp,"Iwase, Toyama City, Toyama Prefecture, Japan",Nagoya POW Camp #11 Branch B,Industrial / port labor camp,View on Map,"Iwase Camp, Iwase, Toyama City, Toyama Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Iwase%20Camp%2C%20Iwase%2C%20Toyama%20City%2C%20Toyama%20Prefecture%2C%20Japan,"Camp: Iwase Camp
+Location: Iwase, Toyama City, Toyama Prefecture, Japan
+System: Nagoya POW Camp #11 Branch B
+Type: Industrial / port labor camp",46
+Nag-11B-Iwase (Nippon Soda),Nag-11B,Iwase Camp,"Iwase, Toyama City, Toyama Prefecture, Japan",Nagoya POW Camp #11 Branch B,Industrial / port labor camp,View on Map,"Iwase Camp, Iwase, Toyama City, Toyama Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Iwase%20Camp%2C%20Iwase%2C%20Toyama%20City%2C%20Toyama%20Prefecture%2C%20Japan,"Camp: Iwase Camp
+Location: Iwase, Toyama City, Toyama Prefecture, Japan
+System: Nagoya POW Camp #11 Branch B
+Type: Industrial / port labor camp",5
+OS-02B-Kobe House,Os-02B,Kobe House Camp,"Kobe, Hyogo Prefecture, Japan",Osaka POW Camp #2 Branch B,Industrial / port labor camp,View on Map,"Kobe House Camp, Kobe, Hyogo Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kobe%20House%20Camp%2C%20Kobe%2C%20Hyogo%20Prefecture%2C%20Japan,"Camp: Kobe House Camp
+Location: Kobe, Hyogo Prefecture, Japan
+System: Osaka POW Camp #2 Branch B
+Type: Industrial / port labor camp",10
+OS-03B-Oeyama,Os-03B,Oeyama Camp,"Oeyama, Kyoto Prefecture, Japan",Osaka POW Camp #3 Branch B,POW labor camp,View on Map,"Oeyama Camp, Oeyama, Kyoto Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Oeyama%20Camp%2C%20Oeyama%2C%20Kyoto%20Prefecture%2C%20Japan,"Camp: Oeyama Camp
+Location: Oeyama, Kyoto Prefecture, Japan
+System: Osaka POW Camp #3 Branch B
+Type: POW labor camp",3
+OS-04B-Ikuno,Os-04B,Ikuno Mine Camp,"Ikuno, Hyogo Prefecture, Japan",Osaka POW Camp #4 Branch B,Mining labor camp,View on Map,"Ikuno Mine Camp, Ikuno, Hyogo Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Ikuno%20Mine%20Camp%2C%20Ikuno%2C%20Hyogo%20Prefecture%2C%20Japan,"Camp: Ikuno Mine Camp
+Location: Ikuno, Hyogo Prefecture, Japan
+System: Osaka POW Camp #4 Branch B
+Type: Mining labor camp",1
+OS-04B-Tanagawa,Os-04B,Tanagawa Camp,"Tanagawa, Osaka Prefecture, Japan",Osaka POW Camp #4 Branch B,POW labor camp,View on Map,"Tanagawa Camp, Tanagawa, Osaka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Tanagawa%20Camp%2C%20Tanagawa%2C%20Osaka%20Prefecture%2C%20Japan,"Camp: Tanagawa Camp
+Location: Tanagawa, Osaka Prefecture, Japan
+System: Osaka POW Camp #4 Branch B
+Type: POW labor camp",1
+OS-05B-Tsuruga,Os-05B,Tsuruga Camp,"Tsuruga, Fukui Prefecture, Japan",Osaka POW Camp #5 Branch B,Industrial / port labor camp,View on Map,"Tsuruga Camp, Tsuruga, Fukui Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Tsuruga%20Camp%2C%20Tsuruga%2C%20Fukui%20Prefecture%2C%20Japan,"Camp: Tsuruga Camp
+Location: Tsuruga, Fukui Prefecture, Japan
+System: Osaka POW Camp #5 Branch B
+Type: Industrial / port labor camp",2
+OS-07B-Takefu,Os-07B,Takefu Camp,"Takefu (Echizen), Fukui Prefecture, Japan",Osaka POW Camp #7 Branch B,POW labor camp,View on Map,"Takefu Camp, Takefu (Echizen), Fukui Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Takefu%20Camp%2C%20Takefu%20%28Echizen%29%2C%20Fukui%20Prefecture%2C%20Japan,"Camp: Takefu Camp
+Location: Takefu (Echizen), Fukui Prefecture, Japan
+System: Osaka POW Camp #7 Branch B
+Type: POW labor camp",1
+OS-10B-Maibara,Os-10B,Maibara Camp,"Maibara, Shiga Prefecture, Japan",Osaka POW Camp #10 Branch B,POW labor camp,View on Map,"Maibara Camp, Maibara, Shiga Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Maibara%20Camp%2C%20Maibara%2C%20Shiga%20Prefecture%2C%20Japan,"Camp: Maibara Camp
+Location: Maibara, Shiga Prefecture, Japan
+System: Osaka POW Camp #10 Branch B
+Type: POW labor camp",55
+OS-12B-Hirohata,Os-12B,Hirohata Camp,"Hirohata (Himeji), Hyogo Prefecture, Japan",Osaka POW Camp #12 Branch B,POW labor camp,View on Map,"Hirohata Camp, Hirohata (Himeji), Hyogo Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Hirohata%20Camp%2C%20Hirohata%20%28Himeji%29%2C%20Hyogo%20Prefecture%2C%20Japan,"Camp: Hirohata Camp
+Location: Hirohata (Himeji), Hyogo Prefecture, Japan
+System: Osaka POW Camp #12 Branch B
+Type: POW labor camp",2
+OS-13B-Tsumori,Os-13B,Tsumori Camp,"Tsumori, Osaka, Japan",Osaka POW Camp #13 Branch B,POW labor camp,View on Map,"Tsumori Camp, Tsumori, Osaka, Japan",https://www.google.com/maps/search/?api=1&query=Tsumori%20Camp%2C%20Tsumori%2C%20Osaka%2C%20Japan,"Camp: Tsumori Camp
+Location: Tsumori, Osaka, Japan
+System: Osaka POW Camp #13 Branch B
+Type: POW labor camp",2
+Os-01-Chikko,Os-01,Chikko Camp,"Chikko, Osaka, Japan",Osaka POW Camp #1,Industrial / port labor camp,View on Map,"Chikko Camp, Chikko, Osaka, Japan",https://www.google.com/maps/search/?api=1&query=Chikko%20Camp%2C%20Chikko%2C%20Osaka%2C%20Japan,"Camp: Chikko Camp
+Location: Chikko, Osaka, Japan
+System: Osaka POW Camp #1
+Type: Industrial / port labor camp",1
+Os-01B-Chikko,Os-01B,Chikko Camp,"Chikko, Osaka, Japan",Osaka POW Camp #1 Branch B,Industrial / port labor camp,View on Map,"Chikko Camp, Chikko, Osaka, Japan",https://www.google.com/maps/search/?api=1&query=Chikko%20Camp%2C%20Chikko%2C%20Osaka%2C%20Japan,"Camp: Chikko Camp
+Location: Chikko, Osaka, Japan
+System: Osaka POW Camp #1 Branch B
+Type: Industrial / port labor camp",1
+Os-01B-Ichioka,Os-01B,Ichioka Camp,"Ichioka / Minato, Osaka, Japan",Osaka POW Camp #1 Branch B,POW labor camp,View on Map,"Ichioka Camp, Ichioka / Minato, Osaka, Japan",https://www.google.com/maps/search/?api=1&query=Ichioka%20Camp%2C%20Ichioka%20/%20Minato%2C%20Osaka%2C%20Japan,"Camp: Ichioka Camp
+Location: Ichioka / Minato, Osaka, Japan
+System: Osaka POW Camp #1 Branch B
+Type: POW labor camp",19
+Os-01B-Ichioka (Minato),Os-01B,Ichioka Camp,"Ichioka / Minato, Osaka, Japan",Osaka POW Camp #1 Branch B,POW labor camp,View on Map,"Ichioka Camp, Ichioka / Minato, Osaka, Japan",https://www.google.com/maps/search/?api=1&query=Ichioka%20Camp%2C%20Ichioka%20/%20Minato%2C%20Osaka%2C%20Japan,"Camp: Ichioka Camp
+Location: Ichioka / Minato, Osaka, Japan
+System: Osaka POW Camp #1 Branch B
+Type: POW labor camp",4
+Os-01B-Main (Chikko),Os-01B,Chikko Camp,"Chikko, Osaka, Japan",Osaka POW Camp #1 Branch B,Industrial / port labor camp,View on Map,"Chikko Camp, Chikko, Osaka, Japan",https://www.google.com/maps/search/?api=1&query=Chikko%20Camp%2C%20Chikko%2C%20Osaka%2C%20Japan,"Camp: Chikko Camp
+Location: Chikko, Osaka, Japan
+System: Osaka POW Camp #1 Branch B
+Type: Industrial / port labor camp",1
+Os-01B-Osaka Main (Chikko),Os-01B,Chikko Camp,"Chikko, Osaka, Japan",Osaka POW Camp #1 Branch B,Industrial / port labor camp,View on Map,"Chikko Camp, Chikko, Osaka, Japan",https://www.google.com/maps/search/?api=1&query=Chikko%20Camp%2C%20Chikko%2C%20Osaka%2C%20Japan,"Camp: Chikko Camp
+Location: Chikko, Osaka, Japan
+System: Osaka POW Camp #1 Branch B
+Type: Industrial / port labor camp",1
+Os-02B-Kobe Hospital,Os-02B,Kobe Hospital,"Kobe, Hyogo Prefecture, Japan",Osaka POW Camp #2 Branch B,Hospital camp,View on Map,"Kobe Hospital, Kobe, Hyogo Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kobe%20Hospital%2C%20Kobe%2C%20Hyogo%20Prefecture%2C%20Japan,"Camp: Kobe Hospital
+Location: Kobe, Hyogo Prefecture, Japan
+System: Osaka POW Camp #2 Branch B
+Type: Hospital camp",1
+Os-02B-Kobe House,Os-02B,Kobe House Camp,"Kobe, Hyogo Prefecture, Japan",Osaka POW Camp #2 Branch B,Industrial / port labor camp,View on Map,"Kobe House Camp, Kobe, Hyogo Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kobe%20House%20Camp%2C%20Kobe%2C%20Hyogo%20Prefecture%2C%20Japan,"Camp: Kobe House Camp
+Location: Kobe, Hyogo Prefecture, Japan
+System: Osaka POW Camp #2 Branch B
+Type: Industrial / port labor camp",21
+Os-02D-Umeda,Os-02D,Umeda Camp,"Umeda, Osaka, Japan",Osaka POW Camp #2 Branch D,POW labor camp,View on Map,"Umeda Camp, Umeda, Osaka, Japan",https://www.google.com/maps/search/?api=1&query=Umeda%20Camp%2C%20Umeda%2C%20Osaka%2C%20Japan,"Camp: Umeda Camp
+Location: Umeda, Osaka, Japan
+System: Osaka POW Camp #2 Branch D
+Type: POW labor camp",103
+Os-03B-Oeyama,Os-03B,Oeyama Camp,"Oeyama, Kyoto Prefecture, Japan",Osaka POW Camp #3 Branch B,POW labor camp,View on Map,"Oeyama Camp, Oeyama, Kyoto Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Oeyama%20Camp%2C%20Oeyama%2C%20Kyoto%20Prefecture%2C%20Japan,"Camp: Oeyama Camp
+Location: Oeyama, Kyoto Prefecture, Japan
+System: Osaka POW Camp #3 Branch B
+Type: POW labor camp",345
+Os-03D-Yodogawa,Os-03D,Yodogawa Camp,"Yodogawa, Osaka, Japan",Osaka POW Camp #3 Branch D,POW labor camp,View on Map,"Yodogawa Camp, Yodogawa, Osaka, Japan",https://www.google.com/maps/search/?api=1&query=Yodogawa%20Camp%2C%20Yodogawa%2C%20Osaka%2C%20Japan,"Camp: Yodogawa Camp
+Location: Yodogawa, Osaka, Japan
+System: Osaka POW Camp #3 Branch D
+Type: POW labor camp",63
+Os-04B-Ikuno,Os-04B,Ikuno Mine Camp,"Ikuno, Hyogo Prefecture, Japan",Osaka POW Camp #4 Branch B,Mining labor camp,View on Map,"Ikuno Mine Camp, Ikuno, Hyogo Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Ikuno%20Mine%20Camp%2C%20Ikuno%2C%20Hyogo%20Prefecture%2C%20Japan,"Camp: Ikuno Mine Camp
+Location: Ikuno, Hyogo Prefecture, Japan
+System: Osaka POW Camp #4 Branch B
+Type: Mining labor camp",36
+Os-04B-Tanagawa,Os-04B,Tanagawa Camp,"Tanagawa, Osaka Prefecture, Japan",Osaka POW Camp #4 Branch B,POW labor camp,View on Map,"Tanagawa Camp, Tanagawa, Osaka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Tanagawa%20Camp%2C%20Tanagawa%2C%20Osaka%20Prefecture%2C%20Japan,"Camp: Tanagawa Camp
+Location: Tanagawa, Osaka Prefecture, Japan
+System: Osaka POW Camp #4 Branch B
+Type: POW labor camp",70
+Os-04D-Sakurajima,Os-04D,Sakurajima Camp,"Sakurajima, Osaka, Japan",Osaka POW Camp #4 Branch D,POW labor camp,View on Map,"Sakurajima Camp, Sakurajima, Osaka, Japan",https://www.google.com/maps/search/?api=1&query=Sakurajima%20Camp%2C%20Sakurajima%2C%20Osaka%2C%20Japan,"Camp: Sakurajima Camp
+Location: Sakurajima, Osaka, Japan
+System: Osaka POW Camp #4 Branch D
+Type: POW labor camp",5
+Os-05B-Tsuruga,Os-05B,Tsuruga Camp,"Tsuruga, Fukui Prefecture, Japan",Osaka POW Camp #5 Branch B,Industrial / port labor camp,View on Map,"Tsuruga Camp, Tsuruga, Fukui Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Tsuruga%20Camp%2C%20Tsuruga%2C%20Fukui%20Prefecture%2C%20Japan,"Camp: Tsuruga Camp
+Location: Tsuruga, Fukui Prefecture, Japan
+System: Osaka POW Camp #5 Branch B
+Type: Industrial / port labor camp",341
+Os-05B-Tsuruga; possibly,Os-05B,Tsuruga Camp,"Tsuruga, Fukui Prefecture, Japan",Osaka POW Camp #5 Branch B,Industrial / port labor camp,View on Map,"Tsuruga Camp, Tsuruga, Fukui Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Tsuruga%20Camp%2C%20Tsuruga%2C%20Fukui%20Prefecture%2C%20Japan,"Camp: Tsuruga Camp
+Location: Tsuruga, Fukui Prefecture, Japan
+System: Osaka POW Camp #5 Branch B
+Type: Industrial / port labor camp",1
+Os-05D-Kawasaki,Os-05D,Kawasaki Camp,"Kawasaki, Kanagawa Prefecture, Japan",Osaka POW Camp #5 Branch D,Industrial / port labor camp,View on Map,"Kawasaki Camp, Kawasaki, Kanagawa Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kawasaki%20Camp%2C%20Kawasaki%2C%20Kanagawa%20Prefecture%2C%20Japan,"Camp: Kawasaki Camp
+Location: Kawasaki, Kanagawa Prefecture, Japan
+System: Osaka POW Camp #5 Branch D
+Type: Industrial / port labor camp",1
+Os-06-Akenobe,Os-06,Akenobe Mine Camp,"Akenobe, Hyogo Prefecture, Japan",Osaka POW Camp #6,Mining labor camp,View on Map,"Akenobe Mine Camp, Akenobe, Hyogo Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Akenobe%20Mine%20Camp%2C%20Akenobe%2C%20Hyogo%20Prefecture%2C%20Japan,"Camp: Akenobe Mine Camp
+Location: Akenobe, Hyogo Prefecture, Japan
+System: Osaka POW Camp #6
+Type: Mining labor camp",6
+Os-06B-Akenobe,Os-06B,Akenobe Mine Camp,"Akenobe, Hyogo Prefecture, Japan",Osaka POW Camp #6 Branch B,Mining labor camp,View on Map,"Akenobe Mine Camp, Akenobe, Hyogo Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Akenobe%20Mine%20Camp%2C%20Akenobe%2C%20Hyogo%20Prefecture%2C%20Japan,"Camp: Akenobe Mine Camp
+Location: Akenobe, Hyogo Prefecture, Japan
+System: Osaka POW Camp #6 Branch B
+Type: Mining labor camp",87
+Os-07B-Takefu,Os-07B,Takefu Camp,"Takefu (Echizen), Fukui Prefecture, Japan",Osaka POW Camp #7 Branch B,POW labor camp,View on Map,"Takefu Camp, Takefu (Echizen), Fukui Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Takefu%20Camp%2C%20Takefu%20%28Echizen%29%2C%20Fukui%20Prefecture%2C%20Japan,"Camp: Takefu Camp
+Location: Takefu (Echizen), Fukui Prefecture, Japan
+System: Osaka POW Camp #7 Branch B
+Type: POW labor camp",28
+Os-08B-Naruo,Os-08B,Naruo Camp,"Naruo, Nishinomiya, Hyogo Prefecture, Japan",Osaka POW Camp #8 Branch B,POW labor camp,View on Map,"Naruo Camp, Naruo, Nishinomiya, Hyogo Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Naruo%20Camp%2C%20Naruo%2C%20Nishinomiya%2C%20Hyogo%20Prefecture%2C%20Japan,"Camp: Naruo Camp
+Location: Naruo, Nishinomiya, Hyogo Prefecture, Japan
+System: Osaka POW Camp #8 Branch B
+Type: POW labor camp",2
+Os-09B-Notogawa,Os-09B,Notogawa Camp,"Notogawa, Shiga Prefecture, Japan",Osaka POW Camp #9 Branch B,POW labor camp,View on Map,"Notogawa Camp, Notogawa, Shiga Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Notogawa%20Camp%2C%20Notogawa%2C%20Shiga%20Prefecture%2C%20Japan,"Camp: Notogawa Camp
+Location: Notogawa, Shiga Prefecture, Japan
+System: Osaka POW Camp #9 Branch B
+Type: POW labor camp",110
+Os-10B-Maibara,Os-10B,Maibara Camp,"Maibara, Shiga Prefecture, Japan",Osaka POW Camp #10 Branch B,POW labor camp,View on Map,"Maibara Camp, Maibara, Shiga Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Maibara%20Camp%2C%20Maibara%2C%20Shiga%20Prefecture%2C%20Japan,"Camp: Maibara Camp
+Location: Maibara, Shiga Prefecture, Japan
+System: Osaka POW Camp #10 Branch B
+Type: POW labor camp",102
+Os-11B-Rokuroshi,Os-11B,Rokuroshi Camp,"Rokuroshi, Fukui Prefecture, Japan",Osaka POW Camp #11 Branch B,POW labor camp,View on Map,"Rokuroshi Camp, Rokuroshi, Fukui Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Rokuroshi%20Camp%2C%20Rokuroshi%2C%20Fukui%20Prefecture%2C%20Japan,"Camp: Rokuroshi Camp
+Location: Rokuroshi, Fukui Prefecture, Japan
+System: Osaka POW Camp #11 Branch B
+Type: POW labor camp",1
+Os-12B-Hirohata,Os-12B,Hirohata Camp,"Hirohata (Himeji), Hyogo Prefecture, Japan",Osaka POW Camp #12 Branch B,POW labor camp,View on Map,"Hirohata Camp, Hirohata (Himeji), Hyogo Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Hirohata%20Camp%2C%20Hirohata%20%28Himeji%29%2C%20Hyogo%20Prefecture%2C%20Japan,"Camp: Hirohata Camp
+Location: Hirohata (Himeji), Hyogo Prefecture, Japan
+System: Osaka POW Camp #12 Branch B
+Type: POW labor camp",309
+Os-13B-Tsumori,Os-13B,Tsumori Camp,"Tsumori, Osaka, Japan",Osaka POW Camp #13 Branch B,POW labor camp,View on Map,"Tsumori Camp, Tsumori, Osaka, Japan",https://www.google.com/maps/search/?api=1&query=Tsumori%20Camp%2C%20Tsumori%2C%20Osaka%2C%20Japan,"Camp: Tsumori Camp
+Location: Tsumori, Osaka, Japan
+System: Osaka POW Camp #13 Branch B
+Type: POW labor camp",29
+Os-13B-Tsumori ?,Os-13B,Tsumori Camp,"Tsumori, Osaka, Japan",Osaka POW Camp #13 Branch B,POW labor camp,View on Map,"Tsumori Camp, Tsumori, Osaka, Japan",https://www.google.com/maps/search/?api=1&query=Tsumori%20Camp%2C%20Tsumori%2C%20Osaka%2C%20Japan,"Camp: Tsumori Camp
+Location: Tsumori, Osaka, Japan
+System: Osaka POW Camp #13 Branch B
+Type: POW labor camp",1
+Os-18B-Wakinohama,Os-18B,Wakinohama Camp,"Wakinohama, Kobe, Hyogo Prefecture, Japan",Osaka POW Camp #18 Branch B,Industrial / port labor camp,View on Map,"Wakinohama Camp, Wakinohama, Kobe, Hyogo Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Wakinohama%20Camp%2C%20Wakinohama%2C%20Kobe%2C%20Hyogo%20Prefecture%2C%20Japan,"Camp: Wakinohama Camp
+Location: Wakinohama, Kobe, Hyogo Prefecture, Japan
+System: Osaka POW Camp #18 Branch B
+Type: Industrial / port labor camp",3
+Os-18B-Wakinohoma,Os-18B,Wakinohama Camp,"Wakinohama, Kobe, Hyogo Prefecture, Japan",Osaka POW Camp #18 Branch B,Industrial / port labor camp,View on Map,"Wakinohama Camp, Wakinohama, Kobe, Hyogo Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Wakinohama%20Camp%2C%20Wakinohama%2C%20Kobe%2C%20Hyogo%20Prefecture%2C%20Japan,"Camp: Wakinohama Camp
+Location: Wakinohama, Kobe, Hyogo Prefecture, Japan
+System: Osaka POW Camp #18 Branch B
+Type: Industrial / port labor camp",1
+Sen-01B-Yumoto (Joban Tanko),Sen-01B,Yumoto (Joban Tanko Camp,"Iwaki / Joban area, Fukushima Prefecture, Japan",Sendai POW Camp #1 Branch B,Coal mining labor camp,View on Map,"Yumoto (Joban Tanko Camp, Iwaki / Joban area, Fukushima Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Yumoto%20%28Joban%20Tanko%20Camp%2C%20Iwaki%20/%20Joban%20area%2C%20Fukushima%20Prefecture%2C%20Japan,"Camp: Yumoto (Joban Tanko Camp
+Location: Iwaki / Joban area, Fukushima Prefecture, Japan
+System: Sendai POW Camp #1 Branch B
+Type: Coal mining labor camp",2
+Sen-02B-Furukawa,Sen-02B,Furukawa Camp,"Furukawa (Osaki), Miyagi Prefecture, Japan",Sendai POW Camp #2 Branch B,POW labor camp,View on Map,"Furukawa Camp, Furukawa (Osaki), Miyagi Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Furukawa%20Camp%2C%20Furukawa%20%28Osaki%29%2C%20Miyagi%20Prefecture%2C%20Japan,"Camp: Furukawa Camp
+Location: Furukawa (Osaki), Miyagi Prefecture, Japan
+System: Sendai POW Camp #2 Branch B
+Type: POW labor camp",20
+Sen-03B-Hosokura,Sen-03B,Hosokura Mining Camp,"Hosokura, Miyagi Prefecture, Japan",Sendai POW Camp #3 Branch B,Mining labor camp,View on Map,"Hosokura Mining Camp, Hosokura, Miyagi Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Hosokura%20Mining%20Camp%2C%20Hosokura%2C%20Miyagi%20Prefecture%2C%20Japan,"Camp: Hosokura Mining Camp
+Location: Hosokura, Miyagi Prefecture, Japan
+System: Sendai POW Camp #3 Branch B
+Type: Mining labor camp",248
+Sen-03B-Hosokura en route Melborne Maru,Sen-03B,Hosokura Mining Camp,"Hosokura, Miyagi Prefecture, Japan",Sendai POW Camp #3 Branch B,Mining labor camp,View on Map,"Hosokura Mining Camp, Hosokura, Miyagi Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Hosokura%20Mining%20Camp%2C%20Hosokura%2C%20Miyagi%20Prefecture%2C%20Japan,"Camp: Hosokura Mining Camp
+Location: Hosokura, Miyagi Prefecture, Japan
+System: Sendai POW Camp #3 Branch B
+Type: Mining labor camp",1
+Sen-04B-Ohashi,Sen-04B,Ohashi Camp,"Sendai District, Japan",Sendai POW Camp #4 Branch B,POW labor camp,View on Map,"Ohashi Camp, Sendai District, Japan",https://www.google.com/maps/search/?api=1&query=Ohashi%20Camp%2C%20Sendai%20District%2C%20Japan,"Camp: Ohashi Camp
+Location: Sendai District, Japan
+System: Sendai POW Camp #4 Branch B
+Type: POW labor camp",41
+Sen-04B-Ohashi (Iwate),Sen-04B,Ohashi (Iwate Camp,"Iwate Prefecture, Japan",Sendai POW Camp #4 Branch B,POW labor camp,View on Map,"Ohashi (Iwate Camp, Iwate Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Ohashi%20%28Iwate%20Camp%2C%20Iwate%20Prefecture%2C%20Japan,"Camp: Ohashi (Iwate Camp
+Location: Iwate Prefecture, Japan
+System: Sendai POW Camp #4 Branch B
+Type: POW labor camp",6
+Sen-05B-Kamaishi,Sen-05B,Kamaishi Camp,"Kamaishi, Iwate Prefecture, Japan",Sendai POW Camp #5 Branch B,POW labor camp,View on Map,"Kamaishi Camp, Kamaishi, Iwate Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kamaishi%20Camp%2C%20Kamaishi%2C%20Iwate%20Prefecture%2C%20Japan,"Camp: Kamaishi Camp
+Location: Kamaishi, Iwate Prefecture, Japan
+System: Sendai POW Camp #5 Branch B
+Type: POW labor camp",3
+Sen-05B-Kamaishi (Yanoura),Sen-05B,Kamaishi Camp,"Kamaishi, Iwate Prefecture, Japan",Sendai POW Camp #5 Branch B,POW labor camp,View on Map,"Kamaishi Camp, Kamaishi, Iwate Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kamaishi%20Camp%2C%20Kamaishi%2C%20Iwate%20Prefecture%2C%20Japan,"Camp: Kamaishi Camp
+Location: Kamaishi, Iwate Prefecture, Japan
+System: Sendai POW Camp #5 Branch B
+Type: POW labor camp",81
+Sen-05B-Niigata,Sen-05B,Niigata Camp,"Niigata, Niigata Prefecture, Japan",Sendai POW Camp #5 Branch B,POW labor camp,View on Map,"Niigata Camp, Niigata, Niigata Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Niigata%20Camp%2C%20Niigata%2C%20Niigata%20Prefecture%2C%20Japan,"Camp: Niigata Camp
+Location: Niigata, Niigata Prefecture, Japan
+System: Sendai POW Camp #5 Branch B
+Type: POW labor camp",1
+Sen-06B-Hanawa,Sen-06B,Hanawa Camp,"Kazuno area, Akita Prefecture, Japan",Sendai POW Camp #6 Branch B,Mining labor camp,View on Map,"Hanawa Camp, Kazuno area, Akita Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Hanawa%20Camp%2C%20Kazuno%20area%2C%20Akita%20Prefecture%2C%20Japan,"Camp: Hanawa Camp
+Location: Kazuno area, Akita Prefecture, Japan
+System: Sendai POW Camp #6 Branch B
+Type: Mining labor camp",500
+Sen-07B-Hanaoka,Sen-07B,Hanaoka Camp,"Odate area, Akita Prefecture, Japan",Sendai POW Camp #7 Branch B,Mining labor camp,View on Map,"Hanaoka Camp, Odate area, Akita Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Hanaoka%20Camp%2C%20Odate%20area%2C%20Akita%20Prefecture%2C%20Japan,"Camp: Hanaoka Camp
+Location: Odate area, Akita Prefecture, Japan
+System: Sendai POW Camp #7 Branch B
+Type: Mining labor camp",250
+Sen-08B-Kosaka,Sen-08B,Kosaka Copper Mine Camp,"Kosaka, Akita Prefecture, Japan",Sendai POW Camp #8 Branch B,Mining labor camp,View on Map,"Kosaka Copper Mine Camp, Kosaka, Akita Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kosaka%20Copper%20Mine%20Camp%2C%20Kosaka%2C%20Akita%20Prefecture%2C%20Japan,"Camp: Kosaka Copper Mine Camp
+Location: Kosaka, Akita Prefecture, Japan
+System: Sendai POW Camp #8 Branch B
+Type: Mining labor camp",242
+Sen-09B-Sakata,Sen-09B,Sakata Camp,"Sakata, Yamagata Prefecture, Japan",Sendai POW Camp #9 Branch B,POW labor camp,View on Map,"Sakata Camp, Sakata, Yamagata Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Sakata%20Camp%2C%20Sakata%2C%20Yamagata%20Prefecture%2C%20Japan,"Camp: Sakata Camp
+Location: Sakata, Yamagata Prefecture, Japan
+System: Sendai POW Camp #9 Branch B
+Type: POW labor camp",15
+Sen-10B-Iwate,Sen-10B,Iwate Camp,"Iwate Prefecture, Japan",Sendai POW Camp #10 Branch B,POW labor camp,View on Map,"Iwate Camp, Iwate Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Iwate%20Camp%2C%20Iwate%20Prefecture%2C%20Japan,"Camp: Iwate Camp
+Location: Iwate Prefecture, Japan
+System: Sendai POW Camp #10 Branch B
+Type: POW labor camp",20
+Sen-10B-Iwate (Tohoku),Sen-10B,Iwate (Tohoku Camp,"Iwate Prefecture, Japan",Sendai POW Camp #10 Branch B,POW labor camp,View on Map,"Iwate (Tohoku Camp, Iwate Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Iwate%20%28Tohoku%20Camp%2C%20Iwate%20Prefecture%2C%20Japan,"Camp: Iwate (Tohoku Camp
+Location: Iwate Prefecture, Japan
+System: Sendai POW Camp #10 Branch B
+Type: POW labor camp",166
+Sen-10B-Iwate (Waki Sennin),Sen-10B,Iwate (Waki Sennin Camp,"Iwate Prefecture, Japan",Sendai POW Camp #10 Branch B,POW labor camp,View on Map,"Iwate (Waki Sennin Camp, Iwate Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Iwate%20%28Waki%20Sennin%20Camp%2C%20Iwate%20Prefecture%2C%20Japan,"Camp: Iwate (Waki Sennin Camp
+Location: Iwate Prefecture, Japan
+System: Sendai POW Camp #10 Branch B
+Type: POW labor camp",1
+Sen-11B-Kamikita (Aomori),Sen-11B,Omori Camp,"Kamikita, Aomori Prefecture, Japan",Sendai POW Camp #11 Branch B,POW labor camp,View on Map,"Omori Camp, Kamikita, Aomori Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Omori%20Camp%2C%20Kamikita%2C%20Aomori%20Prefecture%2C%20Japan,"Camp: Omori Camp
+Location: Kamikita, Aomori Prefecture, Japan
+System: Sendai POW Camp #11 Branch B
+Type: POW labor camp",196
+Sen-Hitachi (Sendai),Sen-Hitachi,Hitachi Camp,"Hitachi, Ibaraki Prefecture, Japan",Sendai POW Camp,POW labor camp,View on Map,"Hitachi Camp, Hitachi, Ibaraki Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Hitachi%20Camp%2C%20Hitachi%2C%20Ibaraki%20Prefecture%2C%20Japan,"Camp: Hitachi Camp
+Location: Hitachi, Ibaraki Prefecture, Japan
+System: Sendai POW Camp
+Type: POW labor camp",1
+Tai-06-Taihuku,Tai-06,Taihuku Camp,"Taihoku (Taipei), Taiwan",Taihoku POW Camp #6,POW labor camp,View on Map,"Taihuku Camp, Taihoku (Taipei), Taiwan",https://www.google.com/maps/search/?api=1&query=Taihuku%20Camp%2C%20Taihoku%20%28Taipei%29%2C%20Taiwan,"Camp: Taihuku Camp
+Location: Taihoku (Taipei), Taiwan
+System: Taihoku POW Camp #6
+Type: POW labor camp",1
+Tok-01,Tok-01,Tokyo POW Camp 01,"Tokyo/Yokohama Area, Japan",Tokyo POW Camp #1,POW labor camp,View on Map,"Tokyo POW Camp 01, Tokyo/Yokohama Area, Japan",https://www.google.com/maps/search/?api=1&query=Tokyo%20POW%20Camp%2001%2C%20Tokyo/Yokohama%20Area%2C%20Japan,"Camp: Tokyo POW Camp 01
+Location: Tokyo/Yokohama Area, Japan
+System: Tokyo POW Camp #1
+Type: POW labor camp",5
+Tok-01-Kawasaki,Tok-01,Kawasaki Camp,"Kawasaki, Kanagawa Prefecture, Japan",Tokyo POW Camp #1,Industrial / port labor camp,View on Map,"Kawasaki Camp, Kawasaki, Kanagawa Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kawasaki%20Camp%2C%20Kawasaki%2C%20Kanagawa%20Prefecture%2C%20Japan,"Camp: Kawasaki Camp
+Location: Kawasaki, Kanagawa Prefecture, Japan
+System: Tokyo POW Camp #1
+Type: Industrial / port labor camp",3
+Tok-01-Omori,Tok-01,Omori Camp,"Omori, Tokyo, Japan",Tokyo POW Camp #1,POW labor camp,View on Map,"Omori Camp, Omori, Tokyo, Japan",https://www.google.com/maps/search/?api=1&query=Omori%20Camp%2C%20Omori%2C%20Tokyo%2C%20Japan,"Camp: Omori Camp
+Location: Omori, Tokyo, Japan
+System: Tokyo POW Camp #1
+Type: POW labor camp",2
+Tok-01B-Kawasaki,Tok-01B,Kawasaki Camp,"Kawasaki, Kanagawa Prefecture, Japan",Tokyo POW Camp #1 Branch B,Industrial / port labor camp,View on Map,"Kawasaki Camp, Kawasaki, Kanagawa Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kawasaki%20Camp%2C%20Kawasaki%2C%20Kanagawa%20Prefecture%2C%20Japan,"Camp: Kawasaki Camp
+Location: Kawasaki, Kanagawa Prefecture, Japan
+System: Tokyo POW Camp #1 Branch B
+Type: Industrial / port labor camp",119
+Tok-01D- Mitsubishi Docks (Yokohama),Tok-01D,Mitsubishi Docks Camp,"Yokohama, Kanagawa Prefecture, Japan",Tokyo POW Camp #1 Branch D,Dockyard labor camp,View on Map,"Mitsubishi Docks Camp, Yokohama, Kanagawa Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Mitsubishi%20Docks%20Camp%2C%20Yokohama%2C%20Kanagawa%20Prefecture%2C%20Japan,"Camp: Mitsubishi Docks Camp
+Location: Yokohama, Kanagawa Prefecture, Japan
+System: Tokyo POW Camp #1 Branch D
+Type: Dockyard labor camp",1
+Tok-01D-Mistsubishi Docks (Yokohama),Tok-01D,Mitsubishi Docks Camp,"Yokohama, Kanagawa Prefecture, Japan",Tokyo POW Camp #1 Branch D,Dockyard labor camp,View on Map,"Mitsubishi Docks Camp, Yokohama, Kanagawa Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Mitsubishi%20Docks%20Camp%2C%20Yokohama%2C%20Kanagawa%20Prefecture%2C%20Japan,"Camp: Mitsubishi Docks Camp
+Location: Yokohama, Kanagawa Prefecture, Japan
+System: Tokyo POW Camp #1 Branch D
+Type: Dockyard labor camp",3
+Tok-01D-Mitsubishi Dock (Yokohama),Tok-01D,Yokohama Camp,"Yokohama, Kanagawa Prefecture, Japan",Tokyo POW Camp #1 Branch D,Dockyard labor camp,View on Map,"Yokohama Camp, Yokohama, Kanagawa Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Yokohama%20Camp%2C%20Yokohama%2C%20Kanagawa%20Prefecture%2C%20Japan,"Camp: Yokohama Camp
+Location: Yokohama, Kanagawa Prefecture, Japan
+System: Tokyo POW Camp #1 Branch D
+Type: Dockyard labor camp",3
+Tok-01D-Mitsubishi Docks (Yokohama,Tok-01D,Mitsubishi Docks Camp,"Yokohama, Kanagawa Prefecture, Japan",Tokyo POW Camp #1 Branch D,Dockyard labor camp,View on Map,"Mitsubishi Docks Camp, Yokohama, Kanagawa Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Mitsubishi%20Docks%20Camp%2C%20Yokohama%2C%20Kanagawa%20Prefecture%2C%20Japan,"Camp: Mitsubishi Docks Camp
+Location: Yokohama, Kanagawa Prefecture, Japan
+System: Tokyo POW Camp #1 Branch D
+Type: Dockyard labor camp",2
+Tok-01D-Mitsubishi Docks (Yokohama),Tok-01D,Mitsubishi Docks Camp,"Yokohama, Kanagawa Prefecture, Japan",Tokyo POW Camp #1 Branch D,Dockyard labor camp,View on Map,"Mitsubishi Docks Camp, Yokohama, Kanagawa Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Mitsubishi%20Docks%20Camp%2C%20Yokohama%2C%20Kanagawa%20Prefecture%2C%20Japan,"Camp: Mitsubishi Docks Camp
+Location: Yokohama, Kanagawa Prefecture, Japan
+System: Tokyo POW Camp #1 Branch D
+Type: Dockyard labor camp",6
+Tok-01D-Yokohama,Tok-01D,Yokohama Camp,"Yokohama, Kanagawa Prefecture, Japan",Tokyo POW Camp #1 Branch D,Industrial / port labor camp,View on Map,"Yokohama Camp, Yokohama, Kanagawa Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Yokohama%20Camp%2C%20Yokohama%2C%20Kanagawa%20Prefecture%2C%20Japan,"Camp: Yokohama Camp
+Location: Yokohama, Kanagawa Prefecture, Japan
+System: Tokyo POW Camp #1 Branch D
+Type: Industrial / port labor camp",2
+Tok-01D-Yokohama (Mitsubishi Docks),Tok-01D,Mitsubishi Docks Camp,"Yokohama, Kanagawa Prefecture, Japan",Tokyo POW Camp #1 Branch D,Dockyard labor camp,View on Map,"Mitsubishi Docks Camp, Yokohama, Kanagawa Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Mitsubishi%20Docks%20Camp%2C%20Yokohama%2C%20Kanagawa%20Prefecture%2C%20Japan,"Camp: Mitsubishi Docks Camp
+Location: Yokohama, Kanagawa Prefecture, Japan
+System: Tokyo POW Camp #1 Branch D
+Type: Dockyard labor camp",14
+Tok-02B later worked at  Nisshin Mills,Tok-02B,Nisshin Mills Camp,"Tokyo/Yokohama Area, Japan",Tokyo POW Camp #2 Branch B,Mill labor camp,View on Map,"Nisshin Mills Camp, Tokyo/Yokohama Area, Japan",https://www.google.com/maps/search/?api=1&query=Nisshin%20Mills%20Camp%2C%20Tokyo/Yokohama%20Area%2C%20Japan,"Camp: Nisshin Mills Camp
+Location: Tokyo/Yokohama Area, Japan
+System: Tokyo POW Camp #2 Branch B
+Type: Mill labor camp",1
+Tok-02B-Kawasaki,Tok-02B,Kawasaki Camp,"Kawasaki, Kanagawa Prefecture, Japan",Tokyo POW Camp #2 Branch B,Industrial / port labor camp,View on Map,"Kawasaki Camp, Kawasaki, Kanagawa Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kawasaki%20Camp%2C%20Kawasaki%2C%20Kanagawa%20Prefecture%2C%20Japan,"Camp: Kawasaki Camp
+Location: Kawasaki, Kanagawa Prefecture, Japan
+System: Tokyo POW Camp #2 Branch B
+Type: Industrial / port labor camp",52
+Tok-02B-Kawasaki?,Tok-02B,Kawasaki Camp,"Kawasaki, Kanagawa Prefecture, Japan",Tokyo POW Camp #2 Branch B,Industrial / port labor camp,View on Map,"Kawasaki Camp, Kawasaki, Kanagawa Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kawasaki%20Camp%2C%20Kawasaki%2C%20Kanagawa%20Prefecture%2C%20Japan,"Camp: Kawasaki Camp
+Location: Kawasaki, Kanagawa Prefecture, Japan
+System: Tokyo POW Camp #2 Branch B
+Type: Industrial / port labor camp",1
+Tok-02D-Kawasaki,Tok-02D,Kawasaki Camp,"Kawasaki, Kanagawa Prefecture, Japan",Tokyo POW Camp #2 Branch D,Industrial / port labor camp,View on Map,"Kawasaki Camp, Kawasaki, Kanagawa Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kawasaki%20Camp%2C%20Kawasaki%2C%20Kanagawa%20Prefecture%2C%20Japan,"Camp: Kawasaki Camp
+Location: Kawasaki, Kanagawa Prefecture, Japan
+System: Tokyo POW Camp #2 Branch D
+Type: Industrial / port labor camp",1
+Tok-03-Omi,Tok-03,Omi Camp,"Omi / Aomi, Niigata Prefecture, Japan",Tokyo POW Camp #3,POW labor camp,View on Map,"Omi Camp, Omi / Aomi, Niigata Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Omi%20Camp%2C%20Omi%20/%20Aomi%2C%20Niigata%20Prefecture%2C%20Japan,"Camp: Omi Camp
+Location: Omi / Aomi, Niigata Prefecture, Japan
+System: Tokyo POW Camp #3
+Type: POW labor camp",14
+Tok-03-Omi <-VERIFY,Tok-03,Omi Camp,"Omi / Aomi, Niigata Prefecture, Japan",Tokyo POW Camp #3,POW labor camp,View on Map,"Omi Camp, Omi / Aomi, Niigata Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Omi%20Camp%2C%20Omi%20/%20Aomi%2C%20Niigata%20Prefecture%2C%20Japan,"Camp: Omi Camp
+Location: Omi / Aomi, Niigata Prefecture, Japan
+System: Tokyo POW Camp #3
+Type: POW labor camp",1
+Tok-03-Omi?,Tok-03,Omi Camp,"Omi / Aomi, Niigata Prefecture, Japan",Tokyo POW Camp #3,POW labor camp,View on Map,"Omi Camp, Omi / Aomi, Niigata Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Omi%20Camp%2C%20Omi%20/%20Aomi%2C%20Niigata%20Prefecture%2C%20Japan,"Camp: Omi Camp
+Location: Omi / Aomi, Niigata Prefecture, Japan
+System: Tokyo POW Camp #3
+Type: POW labor camp",1
+Tok-03B-Omi,Tok-03B,Omi Camp,"Omi / Aomi, Niigata Prefecture, Japan",Tokyo POW Camp #3 Branch B,POW labor camp,View on Map,"Omi Camp, Omi / Aomi, Niigata Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Omi%20Camp%2C%20Omi%20/%20Aomi%2C%20Niigata%20Prefecture%2C%20Japan,"Camp: Omi Camp
+Location: Omi / Aomi, Niigata Prefecture, Japan
+System: Tokyo POW Camp #3 Branch B
+Type: POW labor camp",5
+Tok-04,Tok-04,Tokyo POW Camp 04,"Tokyo/Yokohama Area, Japan",Tokyo POW Camp #4,POW labor camp,View on Map,"Tokyo POW Camp 04, Tokyo/Yokohama Area, Japan",https://www.google.com/maps/search/?api=1&query=Tokyo%20POW%20Camp%2004%2C%20Tokyo/Yokohama%20Area%2C%20Japan,"Camp: Tokyo POW Camp 04
+Location: Tokyo/Yokohama Area, Japan
+System: Tokyo POW Camp #4
+Type: POW labor camp",1
+Tok-04B-Naoetsu,Tok-04B,Naoetsu Camp,"Naoetsu (Joetsu), Niigata Prefecture, Japan",Tokyo POW Camp #4 Branch B,POW labor camp,View on Map,"Naoetsu Camp, Naoetsu (Joetsu), Niigata Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Naoetsu%20Camp%2C%20Naoetsu%20%28Joetsu%29%2C%20Niigata%20Prefecture%2C%20Japan,"Camp: Naoetsu Camp
+Location: Naoetsu (Joetsu), Niigata Prefecture, Japan
+System: Tokyo POW Camp #4 Branch B
+Type: POW labor camp",52
+Tok-05B,Tok-05B,Tokyo POW Camp 05B,"Tokyo/Yokohama Area, Japan",Tokyo POW Camp #5 Branch B,POW labor camp,View on Map,"Tokyo POW Camp 05B, Tokyo/Yokohama Area, Japan",https://www.google.com/maps/search/?api=1&query=Tokyo%20POW%20Camp%2005B%2C%20Tokyo/Yokohama%20Area%2C%20Japan,"Camp: Tokyo POW Camp 05B
+Location: Tokyo/Yokohama Area, Japan
+System: Tokyo POW Camp #5 Branch B
+Type: POW labor camp",1
+Tok-05B-Niigata,Tok-05B,Niigata Camp,"Niigata, Niigata Prefecture, Japan",Tokyo POW Camp #5 Branch B,POW labor camp,View on Map,"Niigata Camp, Niigata, Niigata Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Niigata%20Camp%2C%20Niigata%2C%20Niigata%20Prefecture%2C%20Japan,"Camp: Niigata Camp
+Location: Niigata, Niigata Prefecture, Japan
+System: Tokyo POW Camp #5 Branch B
+Type: POW labor camp",386
+Tok-05B-Niigata (?),Tok-05B,Niigata Camp,"Niigata, Niigata Prefecture, Japan",Tokyo POW Camp #5 Branch B,POW labor camp,View on Map,"Niigata Camp, Niigata, Niigata Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Niigata%20Camp%2C%20Niigata%2C%20Niigata%20Prefecture%2C%20Japan,"Camp: Niigata Camp
+Location: Niigata, Niigata Prefecture, Japan
+System: Tokyo POW Camp #5 Branch B
+Type: POW labor camp",1
+Tok-05D Kawasaki,Tok-05D,Kawasaki Camp,"Kawasaki, Kanagawa Prefecture, Japan",Tokyo POW Camp #5 Branch D,Industrial / port labor camp,View on Map,"Kawasaki Camp, Kawasaki, Kanagawa Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kawasaki%20Camp%2C%20Kawasaki%2C%20Kanagawa%20Prefecture%2C%20Japan,"Camp: Kawasaki Camp
+Location: Kawasaki, Kanagawa Prefecture, Japan
+System: Tokyo POW Camp #5 Branch D
+Type: Industrial / port labor camp",1
+Tok-05D-Kawasaki,Tok-05D,Kawasaki Camp,"Kawasaki, Kanagawa Prefecture, Japan",Tokyo POW Camp #5 Branch D,Industrial / port labor camp,View on Map,"Kawasaki Camp, Kawasaki, Kanagawa Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kawasaki%20Camp%2C%20Kawasaki%2C%20Kanagawa%20Prefecture%2C%20Japan,"Camp: Kawasaki Camp
+Location: Kawasaki, Kanagawa Prefecture, Japan
+System: Tokyo POW Camp #5 Branch D
+Type: Industrial / port labor camp",60
+Tok-06B-Nagano,Tok-06B,Nagano Camp,"Nagano Prefecture, Japan",Tokyo POW Camp #6 Branch B,POW labor camp,View on Map,"Nagano Camp, Nagano Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Nagano%20Camp%2C%20Nagano%20Prefecture%2C%20Japan,"Camp: Nagano Camp
+Location: Nagano Prefecture, Japan
+System: Tokyo POW Camp #6 Branch B
+Type: POW labor camp",1
+Tok-06B-Nihon Kokan (Suwa),Tok-06B,Suwa Camp,"Suwa, Nagano Prefecture, Japan",Tokyo POW Camp #6 Branch B,Steel / industrial labor camp,View on Map,"Suwa Camp, Suwa, Nagano Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Suwa%20Camp%2C%20Suwa%2C%20Nagano%20Prefecture%2C%20Japan,"Camp: Suwa Camp
+Location: Suwa, Nagano Prefecture, Japan
+System: Tokyo POW Camp #6 Branch B
+Type: Steel / industrial labor camp",1
+Tok-06B-Suwa,Tok-06B,Suwa Camp,"Suwa, Nagano Prefecture, Japan",Tokyo POW Camp #6 Branch B,POW labor camp,View on Map,"Suwa Camp, Suwa, Nagano Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Suwa%20Camp%2C%20Suwa%2C%20Nagano%20Prefecture%2C%20Japan,"Camp: Suwa Camp
+Location: Suwa, Nagano Prefecture, Japan
+System: Tokyo POW Camp #6 Branch B
+Type: POW labor camp",8
+Tok-06B-Suwa (Nihon Kokan),Tok-06B,Suwa Camp,"Suwa, Nagano Prefecture, Japan",Tokyo POW Camp #6 Branch B,Steel / industrial labor camp,View on Map,"Suwa Camp, Suwa, Nagano Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Suwa%20Camp%2C%20Suwa%2C%20Nagano%20Prefecture%2C%20Japan,"Camp: Suwa Camp
+Location: Suwa, Nagano Prefecture, Japan
+System: Tokyo POW Camp #6 Branch B
+Type: Steel / industrial labor camp",1
+Tok-07B-Hitachi,Tok-07B,Hitachi Camp,"Hitachi, Ibaraki Prefecture, Japan",Tokyo POW Camp #7 Branch B,POW labor camp,View on Map,"Hitachi Camp, Hitachi, Ibaraki Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Hitachi%20Camp%2C%20Hitachi%2C%20Ibaraki%20Prefecture%2C%20Japan,"Camp: Hitachi Camp
+Location: Hitachi, Ibaraki Prefecture, Japan
+System: Tokyo POW Camp #7 Branch B
+Type: POW labor camp",24
+Tok-07B-Hitachi (Ibaraki),Tok-07B,Hitachi Camp,"Hitachi, Ibaraki Prefecture, Japan",Tokyo POW Camp #7 Branch B,POW labor camp,View on Map,"Hitachi Camp, Hitachi, Ibaraki Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Hitachi%20Camp%2C%20Hitachi%2C%20Ibaraki%20Prefecture%2C%20Japan,"Camp: Hitachi Camp
+Location: Hitachi, Ibaraki Prefecture, Japan
+System: Tokyo POW Camp #7 Branch B
+Type: POW labor camp",2
+Tok-07D-Omi (Aomi),Tok-07D,Omi (Aomi Camp,"Omi / Aomi, Niigata Prefecture, Japan",Tokyo POW Camp #7 Branch D,POW labor camp,View on Map,"Omi (Aomi Camp, Omi / Aomi, Niigata Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Omi%20%28Aomi%20Camp%2C%20Omi%20/%20Aomi%2C%20Niigata%20Prefecture%2C%20Japan,"Camp: Omi (Aomi Camp
+Location: Omi / Aomi, Niigata Prefecture, Japan
+System: Tokyo POW Camp #7 Branch D
+Type: POW labor camp",1
+Tok-08B Hitachi (Motoyama),Tok-08B,Hitachi Camp,"Hitachi, Ibaraki Prefecture, Japan",Tokyo POW Camp #8 Branch B,POW labor camp,View on Map,"Hitachi Camp, Hitachi, Ibaraki Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Hitachi%20Camp%2C%20Hitachi%2C%20Ibaraki%20Prefecture%2C%20Japan,"Camp: Hitachi Camp
+Location: Hitachi, Ibaraki Prefecture, Japan
+System: Tokyo POW Camp #8 Branch B
+Type: POW labor camp",4
+Tok-08B-Hitachi (Motoyama),Tok-08B,Hitachi Camp,"Hitachi, Ibaraki Prefecture, Japan",Tokyo POW Camp #8 Branch B,POW labor camp,View on Map,"Hitachi Camp, Hitachi, Ibaraki Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Hitachi%20Camp%2C%20Hitachi%2C%20Ibaraki%20Prefecture%2C%20Japan,"Camp: Hitachi Camp
+Location: Hitachi, Ibaraki Prefecture, Japan
+System: Tokyo POW Camp #8 Branch B
+Type: POW labor camp",97
+Tok-08B-Noda,Tok-08B,Noda Camp,"Noda, Chiba Prefecture, Japan",Tokyo POW Camp #8 Branch B,POW labor camp,View on Map,"Noda Camp, Noda, Chiba Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Noda%20Camp%2C%20Noda%2C%20Chiba%20Prefecture%2C%20Japan,"Camp: Noda Camp
+Location: Noda, Chiba Prefecture, Japan
+System: Tokyo POW Camp #8 Branch B
+Type: POW labor camp",1
+Tok-09B-Ashio,Tok-09B,Ashio Copper Mine Camp,"Ashio, Tochigi Prefecture, Japan",Tokyo POW Camp #9 Branch B,Mining labor camp,View on Map,"Ashio Copper Mine Camp, Ashio, Tochigi Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Ashio%20Copper%20Mine%20Camp%2C%20Ashio%2C%20Tochigi%20Prefecture%2C%20Japan,"Camp: Ashio Copper Mine Camp
+Location: Ashio, Tochigi Prefecture, Japan
+System: Tokyo POW Camp #9 Branch B
+Type: Mining labor camp",70
+Tok-09B-Ashio (1),Tok-09B,Ashio Copper Mine Camp,"Ashio, Tochigi Prefecture, Japan",Tokyo POW Camp #9 Branch B,Mining labor camp,View on Map,"Ashio Copper Mine Camp, Ashio, Tochigi Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Ashio%20Copper%20Mine%20Camp%2C%20Ashio%2C%20Tochigi%20Prefecture%2C%20Japan,"Camp: Ashio Copper Mine Camp
+Location: Ashio, Tochigi Prefecture, Japan
+System: Tokyo POW Camp #9 Branch B
+Type: Mining labor camp",2
+Tok-10,Tok-10,Tokyo POW Camp 10,"Tokyo/Yokohama Area, Japan",Tokyo POW Camp #10,POW labor camp,View on Map,"Tokyo POW Camp 10, Tokyo/Yokohama Area, Japan",https://www.google.com/maps/search/?api=1&query=Tokyo%20POW%20Camp%2010%2C%20Tokyo/Yokohama%20Area%2C%20Japan,"Camp: Tokyo POW Camp 10
+Location: Tokyo/Yokohama Area, Japan
+System: Tokyo POW Camp #10
+Type: POW labor camp",1
+Tok-10B-Sumidagawa,Tok-10B,Sumidagawa Camp,"Sumida River area, Tokyo, Japan",Tokyo POW Camp #10 Branch B,POW labor camp,View on Map,"Sumidagawa Camp, Sumida River area, Tokyo, Japan",https://www.google.com/maps/search/?api=1&query=Sumidagawa%20Camp%2C%20Sumida%20River%20area%2C%20Tokyo%2C%20Japan,"Camp: Sumidagawa Camp
+Location: Sumida River area, Tokyo, Japan
+System: Tokyo POW Camp #10 Branch B
+Type: POW labor camp",2
+Tok-10D-Yokohama (Osaka Zosen),Tok-10D,Yokohama Camp,"Yokohama, Kanagawa Prefecture, Japan",Tokyo POW Camp #10 Branch D,Industrial / port labor camp,View on Map,"Yokohama Camp, Yokohama, Kanagawa Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Yokohama%20Camp%2C%20Yokohama%2C%20Kanagawa%20Prefecture%2C%20Japan,"Camp: Yokohama Camp
+Location: Yokohama, Kanagawa Prefecture, Japan
+System: Tokyo POW Camp #10 Branch D
+Type: Industrial / port labor camp",1
+Tok-11-Kawaguchi,Tok-11,Kawaguchi Camp,"Kawaguchi, Saitama Prefecture, Japan",Tokyo POW Camp #11,POW labor camp,View on Map,"Kawaguchi Camp, Kawaguchi, Saitama Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kawaguchi%20Camp%2C%20Kawaguchi%2C%20Saitama%20Prefecture%2C%20Japan,"Camp: Kawaguchi Camp
+Location: Kawaguchi, Saitama Prefecture, Japan
+System: Tokyo POW Camp #11
+Type: POW labor camp",1
+Tok-11B,Tok-11B,Tokyo POW Camp 11B,"Tokyo/Yokohama Area, Japan",Tokyo POW Camp #11 Branch B,POW labor camp,View on Map,"Tokyo POW Camp 11B, Tokyo/Yokohama Area, Japan",https://www.google.com/maps/search/?api=1&query=Tokyo%20POW%20Camp%2011B%2C%20Tokyo/Yokohama%20Area%2C%20Japan,"Camp: Tokyo POW Camp 11B
+Location: Tokyo/Yokohama Area, Japan
+System: Tokyo POW Camp #11 Branch B
+Type: POW labor camp",1
+Tok-11B-Kawaguchi,Tok-11B,Kawaguchi Camp,"Kawaguchi, Saitama Prefecture, Japan",Tokyo POW Camp #11 Branch B,POW labor camp,View on Map,"Kawaguchi Camp, Kawaguchi, Saitama Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kawaguchi%20Camp%2C%20Kawaguchi%2C%20Saitama%20Prefecture%2C%20Japan,"Camp: Kawaguchi Camp
+Location: Kawaguchi, Saitama Prefecture, Japan
+System: Tokyo POW Camp #11 Branch B
+Type: POW labor camp",1
+Tok-12B-Mitsushima (Hiraoka),Tok-12B,Mitsushima (Hiraoka Camp,"Tokyo/Yokohama Area, Japan",Tokyo POW Camp #12 Branch B,POW labor camp,View on Map,"Mitsushima (Hiraoka Camp, Tokyo/Yokohama Area, Japan",https://www.google.com/maps/search/?api=1&query=Mitsushima%20%28Hiraoka%20Camp%2C%20Tokyo/Yokohama%20Area%2C%20Japan,"Camp: Mitsushima (Hiraoka Camp
+Location: Tokyo/Yokohama Area, Japan
+System: Tokyo POW Camp #12 Branch B
+Type: POW labor camp",113
+Tok-13B-Omi,Tok-13B,Omi Camp,"Omi / Aomi, Niigata Prefecture, Japan",Tokyo POW Camp #13 Branch B,POW labor camp,View on Map,"Omi Camp, Omi / Aomi, Niigata Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Omi%20Camp%2C%20Omi%20/%20Aomi%2C%20Niigata%20Prefecture%2C%20Japan,"Camp: Omi Camp
+Location: Omi / Aomi, Niigata Prefecture, Japan
+System: Tokyo POW Camp #13 Branch B
+Type: POW labor camp",1
+Tok-13B-Omi (Aomi),Tok-13B,Omi (Aomi Camp,"Omi / Aomi, Niigata Prefecture, Japan",Tokyo POW Camp #13 Branch B,POW labor camp,View on Map,"Omi (Aomi Camp, Omi / Aomi, Niigata Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Omi%20%28Aomi%20Camp%2C%20Omi%20/%20Aomi%2C%20Niigata%20Prefecture%2C%20Japan,"Camp: Omi (Aomi Camp
+Location: Omi / Aomi, Niigata Prefecture, Japan
+System: Tokyo POW Camp #13 Branch B
+Type: POW labor camp",108
+Tok-14B-Toshiba,Tok-14B,Toshiba Camp,"Tokyo/Yokohama Area, Japan",Tokyo POW Camp #14 Branch B,Industrial labor camp,View on Map,"Toshiba Camp, Tokyo/Yokohama Area, Japan",https://www.google.com/maps/search/?api=1&query=Toshiba%20Camp%2C%20Tokyo/Yokohama%20Area%2C%20Japan,"Camp: Toshiba Camp
+Location: Tokyo/Yokohama Area, Japan
+System: Tokyo POW Camp #14 Branch B
+Type: Industrial labor camp",1
+Tok-15B-Niigata,Tok-15B,Niigata Camp,"Niigata, Niigata Prefecture, Japan",Tokyo POW Camp #15 Branch B,POW labor camp,View on Map,"Niigata Camp, Niigata, Niigata Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Niigata%20Camp%2C%20Niigata%2C%20Niigata%20Prefecture%2C%20Japan,"Camp: Niigata Camp
+Location: Niigata, Niigata Prefecture, Japan
+System: Tokyo POW Camp #15 Branch B
+Type: POW labor camp",1
+Tok-15B-Niigata (Tekkojo),Tok-15B,Niigata Camp,"Niigata, Niigata Prefecture, Japan",Tokyo POW Camp #15 Branch B,Steelworks labor camp,View on Map,"Niigata Camp, Niigata, Niigata Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Niigata%20Camp%2C%20Niigata%2C%20Niigata%20Prefecture%2C%20Japan,"Camp: Niigata Camp
+Location: Niigata, Niigata Prefecture, Japan
+System: Tokyo POW Camp #15 Branch B
+Type: Steelworks labor camp",125
+Tok-15B-Niigata Tekkojo,Tok-15B,Niigata Camp,"Niigata, Niigata Prefecture, Japan",Tokyo POW Camp #15 Branch B,Steelworks labor camp,View on Map,"Niigata Camp, Niigata, Niigata Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Niigata%20Camp%2C%20Niigata%2C%20Niigata%20Prefecture%2C%20Japan,"Camp: Niigata Camp
+Location: Niigata, Niigata Prefecture, Japan
+System: Tokyo POW Camp #15 Branch B
+Type: Steelworks labor camp",3
+Tok-16B-Kanose,Tok-16B,Kanose Camp,"Kanose, Niigata Prefecture, Japan",Tokyo POW Camp #16 Branch B,POW labor camp,View on Map,"Kanose Camp, Kanose, Niigata Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kanose%20Camp%2C%20Kanose%2C%20Niigata%20Prefecture%2C%20Japan,"Camp: Kanose Camp
+Location: Kanose, Niigata Prefecture, Japan
+System: Tokyo POW Camp #16 Branch B
+Type: POW labor camp",51
+Tok-17-Omuta,Tok-17,Omuta Camp,"Omuta, Fukuoka Prefecture, Japan",Tokyo POW Camp #17,POW labor camp,View on Map,"Omuta Camp, Omuta, Fukuoka Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Omuta%20Camp%2C%20Omuta%2C%20Fukuoka%20Prefecture%2C%20Japan,"Camp: Omuta Camp
+Location: Omuta, Fukuoka Prefecture, Japan
+System: Tokyo POW Camp #17
+Type: POW labor camp",1
+Tok-23D-Kawasaki (Ajinomoto),Tok-23D,Kawasaki Camp,"Kawasaki, Kanagawa Prefecture, Japan",Tokyo POW Camp #23 Branch D,Industrial labor camp,View on Map,"Kawasaki Camp, Kawasaki, Kanagawa Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Kawasaki%20Camp%2C%20Kawasaki%2C%20Kanagawa%20Prefecture%2C%20Japan,"Camp: Kawasaki Camp
+Location: Kawasaki, Kanagawa Prefecture, Japan
+System: Tokyo POW Camp #23 Branch D
+Type: Industrial labor camp",1
+Tok-5B-Niigata,Tok-5B,Niigata Camp,"Niigata, Niigata Prefecture, Japan",Tokyo POW Camp #5 Branch B,POW labor camp,View on Map,"Niigata Camp, Niigata, Niigata Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Niigata%20Camp%2C%20Niigata%2C%20Niigata%20Prefecture%2C%20Japan,"Camp: Niigata Camp
+Location: Niigata, Niigata Prefecture, Japan
+System: Tokyo POW Camp #5 Branch B
+Type: POW labor camp",1
+Tok-6B-Suwa,Tok-6B,Suwa Camp,"Suwa, Nagano Prefecture, Japan",Tokyo POW Camp #6 Branch B,POW labor camp,View on Map,"Suwa Camp, Suwa, Nagano Prefecture, Japan",https://www.google.com/maps/search/?api=1&query=Suwa%20Camp%2C%20Suwa%2C%20Nagano%20Prefecture%2C%20Japan,"Camp: Suwa Camp
+Location: Suwa, Nagano Prefecture, Japan
+System: Tokyo POW Camp #6 Branch B
+Type: POW labor camp",1
+Tok-Bunka,Tok-Bunka,None NoneNone,Japan,,POW labor camp,View on Map,"None NoneNone, Japan",https://www.google.com/maps/search/?api=1&query=None%20NoneNone%2C%20Japan,"Camp: None NoneNone
+Location: Japan
+System: None
+Type: POW labor camp",1
+Tok-Main (Shinagawa),Tok-Main,Shinagawa Main Camp,"Shinagawa, Tokyo, Japan",Tokyo POW Camp,POW labor camp,View on Map,"Shinagawa Main Camp, Shinagawa, Tokyo, Japan",https://www.google.com/maps/search/?api=1&query=Shinagawa%20Main%20Camp%2C%20Shinagawa%2C%20Tokyo%2C%20Japan,"Camp: Shinagawa Main Camp
+Location: Shinagawa, Tokyo, Japan
+System: Tokyo POW Camp
+Type: POW labor camp",1
+Tok-Main-Shinagawa,Tok-Main,Shinagawa Main Camp,"Shinagawa, Tokyo, Japan",Tokyo POW Camp,POW labor camp,View on Map,"Shinagawa Main Camp, Shinagawa, Tokyo, Japan",https://www.google.com/maps/search/?api=1&query=Shinagawa%20Main%20Camp%2C%20Shinagawa%2C%20Tokyo%2C%20Japan,"Camp: Shinagawa Main Camp
+Location: Shinagawa, Tokyo, Japan
+System: Tokyo POW Camp
+Type: POW labor camp",1
